@@ -1,0 +1,106 @@
+/* Define as fontes personalizadas */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f5f2; /* Um tom de branco envelhecido/bege claro */
+    color: #333;
+}
+
+h1, h2, h3 {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+/* Esconde o scroll da página principal quando a aula está aberta */
+body.lesson-active {
+    overflow: hidden;
+}
+
+/* Animação de fade-in para elementos */
+.fade-in {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.fade-in.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Efeito de gradiente no texto */
+.gradient-text {
+    background-image: linear-gradient(45deg, #8a6e56, #5c4b3a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+/* Estilo do Accordion de Módulos */
+.module-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.7s ease-in-out, padding 0.5s ease;
+    padding: 0 1.5rem;
+}
+
+.module.active .module-content {
+    padding: 0;
+    max-height: 5000px;
+}
+
+.module-header .icon {
+    transition: transform 0.5s ease;
+}
+
+.module.active .module-header .icon {
+    transform: rotate(45deg);
+}
+
+/* Fundo de imagem com parallax simulado */
+.hero-section {
+    background-image: url('images/fundo.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Estilo para os itens de aula clicáveis */
+.topic-item .icon {
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+.topic-item:hover .icon {
+    transform: translateX(4px);
+    color: #8a6e56;
+}
+
+/* Estilos da página de aula */
+#lesson-page.active {
+    transform: translateX(0);
+}
+
+/* Customização do scrollbar na página da aula */
+#lesson-content-area::-webkit-scrollbar {
+    width: 8px;
+}
+
+#lesson-content-area::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+#lesson-content-area::-webkit-scrollbar-thumb {
+    background-color: #c4b5a6; /* Cor de areia/bege */
+    border-radius: 20px;
+    border: 3px solid #f8f5f2;
+}
+
+/* Customização da tipografia dentro da aula */
+#lesson-content-area .prose h4 {
+    font-family: 'Cormorant Garamond', serif;
+    color: #5c4b3a;
+}
+
+#lesson-content-area .prose strong {
+    color: #333;
+}
+
