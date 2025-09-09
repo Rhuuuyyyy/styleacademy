@@ -1,12 +1,22 @@
-/* Define as fontes personalizadas */
+/* Definição da Paleta de Cores e Fontes */
+:root {
+    --font-primary: 'Poppins', sans-serif;
+    --font-secondary: 'Cormorant Garamond', serif;
+    --brand-bg: #f9f6f3; /* Um tom de branco envelhecido/bege mais refinado */
+    --brand-text: #4a4a4a; /* Um cinza escuro mais suave que o preto total */
+    --accent-dark: #5c4b3a;
+    --accent-light: #8a6e56;
+    --brand-gradient: linear-gradient(45deg, var(--accent-light), var(--accent-dark));
+}
+
 body {
-    font-family: 'Poppins', sans-serif;
-    background-color: #f8f5f2; /* Um tom de branco envelhecido/bege claro */
-    color: #333;
+    font-family: var(--font-primary);
+    background-color: var(--brand-bg);
+    color: var(--brand-text);
 }
 
 h1, h2, h3 {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: var(--font-secondary);
 }
 
 /* Esconde o scroll da página principal quando a aula está aberta */
@@ -28,7 +38,7 @@ body.lesson-active {
 
 /* Efeito de gradiente no texto */
 .gradient-text {
-    background-image: linear-gradient(45deg, #8a6e56, #5c4b3a);
+    background-image: var(--brand-gradient);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -45,7 +55,7 @@ body.lesson-active {
 
 .module.active .module-content {
     padding: 0;
-    max-height: 5000px;
+    max-height: 5000px; /* Aumentado para garantir que qualquer conteúdo caiba */
 }
 
 .module-header .icon {
@@ -71,10 +81,13 @@ body.lesson-active {
 }
 .topic-item:hover .icon {
     transform: translateX(4px);
-    color: #8a6e56;
+    color: var(--accent-light);
 }
 
 /* Estilos da página de aula */
+#lesson-page {
+    background-color: var(--brand-bg);
+}
 #lesson-page.active {
     transform: translateX(0);
 }
@@ -91,16 +104,15 @@ body.lesson-active {
 #lesson-content-area::-webkit-scrollbar-thumb {
     background-color: #c4b5a6; /* Cor de areia/bege */
     border-radius: 20px;
-    border: 3px solid #f8f5f2;
+    border: 3px solid var(--brand-bg);
 }
 
 /* Customização da tipografia dentro da aula */
 #lesson-content-area .prose h4 {
-    font-family: 'Cormorant Garamond', serif;
-    color: #5c4b3a;
+    font-family: var(--font-secondary);
+    color: var(--accent-dark);
 }
 
 #lesson-content-area .prose strong {
-    color: #333;
+    color: var(--brand-text);
 }
-
