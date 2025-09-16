@@ -105,25 +105,10 @@
     <script src="script2.js"></script>
     <script src="script3.js"></script>
     <script src="script4.js"></script>
+    <script src="script5.js"></script>
     
     <!-- Script Principal -->
     <script src="script.js"></script>
-    <!-- Adicione este pequeno script para o menu mobile -->
-    <script>
-        const mobileMenuButton = document.getElementById('mobile-menu-button');
-        const mobileMenu = document.getElementById('mobile-menu');
-        const navLinks = mobileMenu.querySelectorAll('a');
-
-        mobileMenuButton.addEventListener('click', () => {
-            mobileMenu.classList.toggle('hidden');
-        });
-
-        // Opcional: Fechar o menu ao clicar num link
-        navLinks.forEach(link => {
-            link.addEventListener('click', () => {
-                mobileMenu.classList.add('hidden');
-            });
-        });
-    </script>
 </body>
 </html>
+

@@ -20,7 +20,12 @@ const module0 = {
                         <li><strong>Pudor e Modéstia:</strong> Em praticamente todas as culturas, a roupa serve para cobrir certas partes do corpo, seguindo convenções sociais e morais que variam drasticamente ao longo do tempo e entre diferentes sociedades. O que é considerado "pudico" é uma construção cultural em constante mudança.</li>
                         <li><strong>Identificação e Praticidade:</strong> Em contextos específicos, a roupa tem uma função prática de identificação. Uniformes militares, uniformes de trabalho (médicos, bombeiros) ou trajes esportivos são desenhados para facilitar o reconhecimento e, principalmente, para serem funcionais para a atividade exercida.</li>
                     </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Comparativo técnico entre um casaco de alpinismo moderno, com camadas de tecido tecnológico para isolamento e respirabilidade, e um anoraque Inuit tradicional, feito de pele de foca, ambos cumprindo a função pragmática de proteção em ambientes extremos.]</p>
+                    <div class="flex flex-col md:flex-row gap-4 my-4 items-center">
+                        <div class="flex-1">
+                            <img src="images/modulo0/1.png" alt="Casaco de alpinismo moderno" class="w-full h-auto rounded-lg shadow-md object-cover">
+                        </div>
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Comparativo técnico entre um casaco de alpinismo moderno, com camadas de tecido tecnológico, e um anoraque Inuit tradicional, feito de pele de foca, ambos cumprindo a função pragmática de proteção em ambientes extremos.</p>
                     
                     <h5 class="font-semibold text-lg mt-4 mb-2">b) Função Simbólica (Social e Cultural)</h5>
                     <p>É aqui que a moda se revela em sua total complexidade, transformando a roupa em um veículo de significado.</p>
@@ -29,7 +34,10 @@ const module0 = {
                         <li><strong>Comunicação de Identidade:</strong> A moda é a ferramenta mais imediata para construir e expressar quem somos (ou quem aspiramos ser). Através de nossas escolhas, comunicamos nossa idade, gênero, profissão, gostos musicais, afiliações políticas e valores. Um executivo de terno e uma jovem punk com jaqueta de couro estão, ambos, usando a moda para projetar uma identidade específica para o mundo.</li>
                         <li><strong>Pertencimento a um Grupo:</strong> Vestir-se de maneira semelhante a um grupo cria um senso de coesão e pertencimento. Isso é visível em subculturas (góticos, hippies, skatistas), "tribos urbanas" e até mesmo em ambientes corporativos, onde existe um código de vestimenta (mesmo que implícito) que une os membros da equipe.</li>
                     </ul>
-                     <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Fotografia icônica de um punk londrino dos anos 1970, com jaqueta de couro customizada, cabelo moicano e piercings. Analisar como cada elemento visual (material, customização, penteado) funciona como um código de pertencimento e contestação ao sistema.]</p>
+                     <div class="my-4">
+                        <img src="images/modulo0/3.png" alt="Punk londrino nos anos 1970" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Fotografia icônica de um punk londrino dos anos 1970. Cada elemento visual (jaqueta de couro customizada, cabelo moicano, piercings) funciona como um código de pertencimento e contestação ao sistema.</p>
                 </div>
                 
                 <h4 class="text-xl font-bold mt-6 mb-3">2. A Importância Social e Cultural da Moda</h4>
@@ -44,12 +52,18 @@ const module0 = {
                           </ul>
                        </li>
                    </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Fotografia de Coco Chanel usando calças compridas e suas clássicas peças em jérsei na década de 1920. Um exemplo seminal de como a moda pode liderar uma mudança social, oferecendo liberdade de movimento e desafiando os papéis de gênero tradicionais.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo0/4.png" alt="Coco Chanel usando calças compridas na década de 1920" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Fotografia de Coco Chanel usando calças compridas e suas clássicas peças em jérsei. Um exemplo seminal de como a moda pode liderar uma mudança social, oferecendo liberdade de movimento e desafiando os papéis de gênero tradicionais.</p>
                    <ul class="list-disc pl-5 mt-2 space-y-2">
                        <li><strong>Motor da Economia:</strong> A indústria da moda é um dos setores mais importantes da economia global, movimentando trilhões de dólares e empregando milhões de pessoas em toda a sua cadeia produtiva: desde o cultivo de fibras, passando pela manufatura têxtil, design, marketing, varejo e comunicação.</li>
                        <li><strong>Veículo de Arte e Inovação:</strong> A moda, especialmente a alta-costura, é uma forma de arte aplicada. Designers como Alexander McQueen ou Rei Kawakubo (Comme des Garçons) usam a roupa como uma tela para explorar conceitos abstratos, desafiar as noções de beleza e questionar as convenções sociais. Além disso, a indústria da moda impulsiona a inovação tecnológica, desde o desenvolvimento de tecidos inteligentes e sustentáveis até novas formas de produção e consumo.</li>
                    </ul>
-                   <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um look do desfile "Voss" (Primavera/Verão 2001) de Alexander McQueen. A peça, feita de conchas, e a cenografia do desfile são um exemplo poderoso de como a moda pode transcender o utilitário para se tornar uma expressão artística complexa e provocadora.]</p>
+                   <div class="my-4">
+                        <img src="images/modulo0/5.png" alt="Look do desfile 'Voss' de Alexander McQueen" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                   <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Um look do desfile "Voss" (Primavera/Verão 2001) de Alexander McQueen. A peça, feita de conchas, e a cenografia do desfile são um exemplo poderoso de como a moda pode transcender o utilitário para se tornar uma expressão artística complexa e provocadora.</p>
                 </div>
                 
                 <h4 class="text-xl font-bold mt-6 mb-3">Conclusão da Aula</h4>
@@ -73,7 +87,12 @@ const module0 = {
         <li><strong>Cor:</strong> É o elemento de maior impacto visual imediato. As cores carregam significados psicológicos e culturais profundos. O preto pode significar luto, poder ou sofisticação no Ocidente, enquanto o branco assume a função do luto em muitas culturas orientais. O vermelho pode comunicar paixão, perigo ou poder.<br><strong>Referência Técnica:</strong> O "Vermelho Valentino". O estilista Valentino Garavani criou uma tonalidade de vermelho tão icônica que se tornou um código visual da sua marca, simbolizando luxo, feminilidade e poder atemporal.</li>
         <li><strong>Forma e Silhueta:</strong> A silhueta é o contorno geral do corpo vestido e é, talvez, o elemento que mais define uma era. Uma silhueta pode comunicar rigidez, fluidez, opulência ou minimalismo.<br><strong>Referência Técnica:</strong> O "New Look" de Christian Dior (1947), com sua cintura marcada e saia ampla, comunicava um retorno à feminilidade e ao luxo após a austeridade da Segunda Guerra Mundial. Em contraste, a silhueta tubular dos anos 1920 comunicava liberação e androginia.</li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Comparativo de croquis técnicos da silhueta "New Look" de Dior e de uma silhueta "flapper" dos anos 1920. Destacar as linhas de construção, a marcação da cintura e o volume para ilustrar mensagens opostas.]</p>
+    <div class="flex flex-col md:flex-row gap-4 my-4 items-center">
+        <div class="flex-1">
+            <img src="images/modulo0/6.png" alt="Croqui da silhueta New Look de Dior" class="w-full h-auto rounded-lg shadow-md object-cover">
+        </div>
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Comparativo de croquis técnicos da silhueta "New Look" de Dior e de uma silhueta "flapper" dos anos 1920, destacando as linhas de construção, a marcação da cintura e o volume para ilustrar mensagens opostas.</p>
     <ul class="list-disc pl-5 mt-2 space-y-2">
         <li><strong>Textura:</strong> Refere-se à qualidade da superfície de um tecido, tanto visual quanto tátil. A textura adiciona profundidade e complexidade a uma peça. Sedas e veludos comunicam luxo e sensualidade; o couro, rebeldia e proteção; o linho bruto, naturalidade e simplicidade.</li>
         <li><strong>Estampa:</strong> Padronagens e estampas funcionam como significantes diretos.
@@ -94,12 +113,18 @@ const module0 = {
         <li><strong>Símbolos de Status e Poder:</strong> Desde as togas púrpuras dos senadores romanos até a bolsa Birkin da Hermès, a moda sempre foi usada para sinalizar hierarquia. Logotipos, materiais raros e peças de acesso restrito funcionam como códigos instantâneos de status econômico e social. O terno masculino, por exemplo, é um símbolo universal de profissionalismo e poder no mundo corporativo.</li>
         <li><strong>Símbolos de Pertencimento e Identidade de Grupo:</strong> O vestuário é uma das formas mais eficazes de sinalizar afiliação a uma tribo, subcultura ou movimento.<br><strong>Referência Técnica:</strong> Os ternos impecavelmente cortados e as parkas militares dos Mods na Inglaterra dos anos 1960. A atenção obsessiva aos detalhes era um código que os diferenciava dos Rockers e comunicava sua identidade de classe trabalhadora aspiracional e seu gosto pelo modern jazz.</li>
     </ul>
-     <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Fotografia em preto e branco de um grupo de Mods em Brighton, Inglaterra, nos anos 60. Analisar os detalhes do vestuário: ternos slim-fit, gravatas finas, parkas e scooters Lambretta como um uniforme cultural coeso.]</p>
+    <div class="my-4">
+        <img src="images/modulo0/7.png" alt="Grupo de Mods em Brighton, Inglaterra, nos anos 60" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Fotografia em preto e branco de um grupo de Mods em Brighton, Inglaterra. Os detalhes do vestuário (ternos slim-fit, gravatas finas, parkas e scooters Lambretta) formam um uniforme cultural coeso.</p>
     <ul class="list-disc pl-5 mt-2 space-y-2">
         <li><strong>Símbolos de Contestação:</strong> A moda pode ser uma arma poderosa contra o status quo.<br><strong>Referência Técnica:</strong> O trabalho de Vivienne Westwood e a estética punk. O uso de alfinetes, roupas rasgadas, suásticas (para chocar, não por ideologia) e estampas de bondage era uma agressão visual deliberada contra o sistema monárquico, o consumismo e a polidez da sociedade britânica nos anos 70.</li>
         <li><strong>Símbolos de Gênero (e sua Desconstrução):</strong> O smoking, originalmente uma peça masculina, foi introduzido no guarda-roupa feminino por Yves Saint Laurent em 1966 ("Le Smoking"). Foi um ato transgressor que simbolizou a apropriação do poder masculino pela mulher moderna. Designers como Jean Paul Gaultier e Rei Kawakubo continuam a desafiar esses códigos, questionando o que é "masculino" e "feminino".</li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Fotografia de Helmut Newton do "Le Smoking" de Yves Saint Laurent, 1975. A imagem mostra uma mulher andrógina em uma rua escura, com o cabelo para trás e um cigarro, exalando poder e ambiguidade, encapsulando a revolução simbólica da peça.]</p>
+    <div class="my-4">
+        <img src="images/modulo0/8.png" alt="Fotografia de Helmut Newton do Le Smoking de Yves Saint Laurent" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Fotografia de Helmut Newton (1975). A imagem mostra uma mulher andrógina em uma rua escura, com o cabelo para trás e um cigarro, exalando poder e ambiguidade, encapsulando a revolução simbólica da peça.</p>
 </div>
 <h4 class="text-xl font-bold mt-6 mb-3">3. Comunicação e Percepção: O Diálogo Silencioso</h4>
 <div class="space-y-4">
@@ -133,7 +158,10 @@ const module0 = {
         <li><strong>Mecanismo:</strong> Historicamente, operava de forma top-down (ditada por estilistas e pela alta-costura, descendo até o consumo de massa). Hoje, é cada vez mais comum o modelo bottom-up, onde usos que nascem nas ruas, em subculturas ou nas redes sociais, ascendem e são absorvidos pela indústria.</li>
     </ul>
     <p>Em suma, a moda é o "o quê" - o que está sendo usado pela maioria, em um determinado momento.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma fotografia de street style da década de 1990, mostrando várias pessoas usando jeans de cintura baixa e tops curtos. A imagem ilustra a moda como um fenômeno coletivo, onde um conjunto de peças e silhuetas define a estética de uma era.]</p>
+    <div class="my-4">
+        <img src="images/modulo0/9.png" alt="Street style da década de 1990 com jeans de cintura baixa" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Fotografia de street style da década de 1990. O uso coletivo de jeans de cintura baixa e tops curtos ilustra a moda como um fenômeno coletivo que define a estética de uma era.</p>
 </div>
 <h4 class="text-xl font-bold mt-6 mb-3">2. Tendência: O Vetor de Mudança</h4>
 <div class="space-y-4">
@@ -150,7 +178,10 @@ const module0 = {
         <li><strong>Identificação:</strong> É um campo de estudo técnico, realizado por agências especializadas (como WGSN e Peclers), que analisam dados globais para prever as futuras direções do consumo.</li>
     </ul>
     <p>A tendência é o "para onde" - a direção para a qual o gosto coletivo está se movendo.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um painel de tendências (trend board) profissional. A imagem deve conter amostras de tecidos, uma paleta de cores, imagens de referência de arte, arquitetura e comportamento, mostrando o processo analítico por trás da previsão de uma tendência, como por exemplo, o "Dopamine Dressing" (vestir-se com cores vibrantes para melhorar o humor).]</p>
+    <div class="my-4">
+        <img src="images/modulo0/10.png" alt="Painel de tendências profissional para Dopamine Dressing" class="w-full max-w-xl mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Um painel de tendências profissional. Inclui amostras de tecidos, paleta de cores e imagens de referência, mostrando o processo analítico por trás da previsão de uma tendência como o "Dopamine Dressing".</p>
 </div>
 <h4 class="text-xl font-bold mt-6 mb-3">3. Estilo: A Assinatura Individual</h4>
 <div class="space-y-4">
@@ -161,7 +192,10 @@ const module0 = {
         <li><strong>Relação com a Moda:</strong> Uma pessoa com estilo não é necessariamente uma "vítima da moda". Ela sabe filtrar as tendências, adotando apenas aquilo que faz sentido para sua identidade visual, e adaptando os elementos da moda ao seu universo particular.</li>
     </ul>
     <p>O estilo é o "como" - como um indivíduo, de forma única, combina e usa os elementos disponíveis.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Fotografia de Iris Apfel. Ela é o exemplo perfeito de estilo pessoal. Analisar como ela combina peças de alta-costura, achados de brechó, texturas ousadas e seus icônicos óculos e joias, criando uma assinatura visual que é exclusivamente dela, independentemente das tendências do momento.]</p>
+    <div class="my-4">
+        <img src="images/modulo0/11.png" alt="Iris Apfel, ícone de estilo pessoal" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md object-cover">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Iris Apfel é o exemplo perfeito de estilo pessoal. Ela combina peças de alta-costura, achados de brechó, texturas ousadas e seus icônicos óculos e joias, criando uma assinatura visual que é exclusivamente dela.</p>
 </div>
 <h4 class="text-xl font-bold mt-6 mb-3">4. Identidade Estética: O Universo Pessoal</h4>
 <div class="space-y-4">
@@ -172,7 +206,10 @@ const module0 = {
         <li><strong>Aplicação Profissional:</strong> Para marcas e estilistas, ter uma identidade estética clara é crucial. É o DNA da marca, o que a torna reconhecível e coerente em todas as suas manifestações, desde a roupa e os desfiles até o design das lojas e as campanhas publicitárias.</li>
     </ul>
     <p>A identidade estética é o "porquê" - a razão fundamental e a filosofia que guia as escolhas do estilo.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma composição de imagens que represente a identidade estética do estilista Hedi Slimane. A foto deve incluir um look de uma de suas coleções (para a Celine ou Saint Laurent), uma de suas fotografias em preto e branco de rockstars, e a imagem de uma de suas lojas com arquitetura minimalista e brutalista. O conjunto ilustra um universo estético coerente: rock'n'roll, andrógino, jovem e monocromático.]</p>
+    <div class="my-4">
+        <img src="images/modulo0/12.png" alt="Composição da identidade estética de Hedi Slimane" class="w-full max-w-xl mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Composição representando a identidade estética de Hedi Slimane. Inclui um look de passarela, uma de suas fotografias em preto e branco e a arquitetura de uma de suas lojas, ilustrando um universo coerente: rock'n'roll, andrógino e monocromático.</p>
 </div>
 <h4 class="text-xl font-bold mt-6 mb-3">Conclusão da Aula</h4>
 <div class="space-y-4">
@@ -200,7 +237,12 @@ const module0 = {
         <li><strong>O Corpo Esculpido:</strong> A moda historicamente não se contentou em apenas cobrir o corpo, mas buscou remodelá-lo para se adequar a uma silhueta desejada.<br><strong>Referência Técnica:</strong> O Espartilho Vitoriano. Mais do que uma peça de roupa interior, o espartilho era um instrumento de engenharia social. Feito com barbatanas de baleia e amarrações rígidas, ele afinava a cintura a extremos, projetava o busto e os quadris, criando a silhueta em "S" do final do século XIX. Comportamentalmente, ele restringia a respiração e os movimentos, forçando uma postura ereta e delicada, e simbolizava o status de uma mulher que não precisava realizar trabalho físico. Sua rigidez era um reflexo da moralidade e da repressão da época.</li>
         <li><strong>A Liberação do Corpo:</strong> Movimentos de vanguarda na moda frequentemente coincidem com momentos de liberação social, e o primeiro passo é quase sempre libertar o corpo das estruturas rígidas.<br><strong>Referência Técnica:</strong> A Revolução de Paul Poiret e Coco Chanel. No início do século XX, estilistas como Paul Poiret foram pioneiros ao abolir o espartilho, criando vestidos de cintura alta e caimento fluido, inspirados no neoclassicismo. Pouco depois, Chanel aprofundou essa revolução ao usar malha (jérsei) e criar roupas funcionais inspiradas no guarda-roupa masculino. Essa mudança não foi apenas estética: ela permitiu que as mulheres se movimentassem, respirassem, trabalhassem e participassem ativamente da vida moderna.</li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um diagrama de anatomia do século XIX mostrando o deslocamento de órgãos causado pelo uso do espartilho, ao lado de uma fotografia de uma mulher vestindo um "Delphos", o icônico vestido plissado e fluido de Mariano Fortuny, que celebrava a forma natural do corpo.]</p>
+    <div class="flex flex-col md:flex-row gap-4 my-4 items-center">
+        <div class="flex-1">
+            <img src="images/modulo0/13.png" alt="Vestido Delphos de Mariano Fortuny" class="w-full h-auto rounded-lg shadow-md object-cover">
+        </div>
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Diagrama do século XIX mostrando o deslocamento de órgãos causado pelo espartilho, ao lado de um vestido "Delphos" de Mariano Fortuny, que celebrava a forma natural do corpo.</p>
 </div>
 <h4 class="text-xl font-bold mt-6 mb-3">2. A Roupa que Dita o Comportamento: Enclothed Cognition</h4>
 <div class="space-y-4">
@@ -215,7 +257,10 @@ const module0 = {
         </li>
         <li><strong>Confiança e Poder:</strong> Certas roupas funcionam como armaduras psicológicas, alterando nossa autopercepção e a forma como nos projetamos no mundo.<br><strong>Referência Técnica:</strong> O Power Suit dos anos 1980. Com suas ombreiras exageradas, lapelas largas e corte estruturado, o power suit (popularizado por designers como Giorgio Armani e Thierry Mugler) foi um uniforme para a geração de mulheres que entrava em massa no mercado de trabalho corporativo. As ombreiras alargavam visualmente os ombros, uma característica associada ao poder masculino, alterando a postura da usuária e transmitindo uma mensagem não verbal de autoridade, assertividade e ambição.</li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma imagem icônica da atriz Sigourney Weaver no filme "Uma Secretária de Futuro" (Working Girl, 1988), usando um power suit com ombreiras proeminentes. A imagem deve capturar uma expressão de confiança e determinação.]</p>
+    <div class="my-4">
+        <img src="images/modulo0/15.png" alt="Sigourney Weaver em 'Uma Secretária de Futuro' usando um power suit" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Imagem icônica de Sigourney Weaver no filme "Uma Secretária de Futuro" (1988), usando um power suit com ombreiras proeminentes que capturam uma expressão de confiança e determinação.</p>
 </div>
 <h4 class="text-xl font-bold mt-6 mb-3">3. O Corpo na Moda Contemporânea: Desconstrução e Diversidade</h4>
 <div class="space-y-4">
@@ -223,7 +268,10 @@ const module0 = {
     <ul class="list-disc pl-5 mt-2 space-y-2">
       <li><strong>A Quebra da Silhueta Ideal:</strong> A moda de vanguarda questiona ativamente a ideia de que a roupa deve "embelezar" ou "aperfeiçoar" o corpo.<br><strong>Referência Técnica:</strong> A coleção "Body Meets Dress, Dress Meets Body" (Verão 1997) de Rei Kawakubo para a Comme des Garçons. Apelidada de "Lumps and Bumps" (Caroços e Saliências), esta coleção foi um marco na história da moda. Kawakubo inseriu enchimentos de plumas em locais assimétricos sob vestidos de jérsei xadrez, criando protuberâncias e distorcendo radicalmente a silhueta feminina. Não se tratava de criar beleza convencional, mas de questionar a própria forma do corpo e sua relação com a roupa. O comportamento ditado por essas peças era de estranhamento, forçando tanto a usuária quanto o observador a repensar o que é um corpo e como ele pode ser vestido.</li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um look de passarela da coleção "Lumps and Bumps" da Comme des Garçons, mostrando claramente as formas distorcidas e não anatômicas criadas pelos enchimentos sob o vestido.]</p>
+    <div class="my-4">
+        <img src="images/modulo0/14.png" alt="Look da coleção 'Lumps and Bumps' da Comme des Garçons" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Look de passarela da coleção "Lumps and Bumps" (1997) da Comme des Garçons, mostrando as formas distorcidas e não anatômicas criadas pelos enchimentos sob o vestido.</p>
     <ul class="list-disc pl-5 mt-2 space-y-2">
         <li><strong>Inclusão e Body Positivity:</strong> Há um movimento crescente, impulsionado pelas redes sociais e por marcas disruptivas, para que a moda represente uma gama muito maior de corpos: diferentes tamanhos (plus size), idades (modelos mais velhas), etnias e habilidades. A mensagem é que o corpo não precisa se adaptar à moda, mas a moda é que deve se adaptar a todos os corpos.</li>
     </ul>
@@ -244,7 +292,7 @@ const module0 = {
 
 <h4 class="text-xl font-bold mt-6 mb-3">1. História da Moda: O Arquivo do Vestuário</h4>
 <div class="space-y-4">
-    <p><strong>O que é:</strong> O estudo da evolução do vestuário e dos estilos em seu contexto social, cultural, político e econômico. A história da moda não é apenas um catálogo de roupas do passado, but uma análise de por que as pessoas se vestiram de determinada maneira em determinados períodos.</p>
+    <p><strong>O que é:</strong> O estudo da evolução do vestuário e dos estilos em seu contexto social, cultural, político e econômico. A história da moda não é apenas um catálogo de roupas do passado, mas uma análise de por que as pessoas se vestiram de determinada maneira em determinados períodos.</p>
     <p><strong>Importância Técnica:</strong></p>
     <ul class="list-disc pl-5 mt-2 space-y-2">
         <li><strong>Repertório e Inspiração:</strong> É a principal fonte de repertório para qualquer criador. Conhecer o passado evita a cópia e permite a reinterpretação consciente.</li>
@@ -252,7 +300,12 @@ const module0 = {
         <li><strong>Contextualização:</strong> Entender que uma peça de roupa é um artefato histórico, um documento que revela informações sobre a tecnologia, o comércio, a moral e os costumes de uma época.</li>
     </ul>
     <p><strong>Referência Técnica:</strong> A influência do vestuário militar na moda funcional do século XX. O trench coat, criado por Thomas Burberry para os oficiais britânicos na Primeira Guerra Mundial, é um exemplo de design funcional (impermeável, com anéis para granadas e dragonas para insígnias) que foi perfeitamente assimilado pela vida civil, tornando-se um ícone de elegância atemporal.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma fotografia histórica de um oficial britânico usando um trench coat original na década de 1910, ao lado de uma imagem de campanha moderna da Burberry, destacando a permanência dos elementos de design funcionais.]</p>
+    <div class="flex flex-col md:flex-row gap-4 my-4 items-center">
+        <div class="flex-1">
+            <img src="images/modulo0/16.png" alt="Oficial britânico com trench coat na década de 1910" class="w-full h-auto rounded-lg shadow-md object-cover">
+        </div>
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Fotografia histórica de um oficial britânico com trench coat original, ao lado de uma campanha moderna da Burberry, destacando a permanência dos elementos de design funcionais.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">2. Estética e Teoria da Moda: A Gramática do Belo</h4>
@@ -265,7 +318,10 @@ const module0 = {
         <li><strong>Construção de Imagem:</strong> Essencial para a consultoria de imagem e o estilo pessoal, pois utiliza os princípios do design para valorizar características físicas e comunicar mensagens específicas.</li>
     </ul>
     <p><strong>Referência Técnica:</strong> A aplicação da Teoria da Cor de Johannes Itten na coordenação de looks. Conceitos como harmonia análoga (cores vizinhas no círculo cromático), complementar (cores opostas) e monocromática são ferramentas técnicas usadas por estilistas e consultores para criar impacto visual e transmitir diferentes sensações.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um círculo cromático profissional, com setas indicando e exemplificando um look para cada tipo de harmonia: análoga, complementar e tríade. Os looks devem ser de passarela para reforçar o caráter técnico.]</p>
+    <div class="my-4">
+        <img src="images/modulo0/17.png" alt="Círculo cromático com exemplos de looks" class="w-full max-w-xl mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Um círculo cromático profissional, com exemplos de looks de passarela para cada tipo de harmonia: análoga, complementar e tríade.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">3. Tecidos e Materiais (Tecnologia Têxtil): A Substância da Moda</h4>
@@ -278,7 +334,12 @@ const module0 = {
         <li><strong>Adequação:</strong> O conhecimento têxtil permite escolher o material correto para a função, o clima e a ocasião de uma peça, unindo estética e funcionalidade.</li>
     </ul>
     <p><strong>Referência Técnica:</strong> O trabalho da estilista japonesa Issey Miyake com o poliéster. Em sua linha "Pleats Please", ele desenvolveu uma técnica inovadora onde a plissagem é feita na peça já costurada, e não no tecido. Isso só é possível devido às propriedades termoplásticas do poliéster, que "memoriza" a forma quando aquecido. É um exemplo perfeito de como o domínio técnico de um material pode gerar uma assinatura estética única e revolucionária.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um close-up detalhado de uma peça "Pleats Please" de Issey Miyake, mostrando a textura complexa e permanente da plissagem, ao lado de um diagrama técnico simplificado do processo de plissagem sobre a peça pronta.]</p>
+    <div class="flex flex-col md:flex-row gap-4 my-4 items-center">
+        <div class="flex-1">
+            <img src="images/modulo0/18.png" alt="Close-up de uma peça 'Pleats Please' de Issey Miyake" class="w-full h-auto rounded-lg shadow-md object-cover">
+        </div>
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Close-up de uma peça "Pleats Please" de Issey Miyake, mostrando a textura complexa, ao lado de um diagrama simplificado do processo de plissagem sobre a peça pronta.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">4. Estilismo (Styling) e Produção de Moda: A Arte da Narrativa Visual</h4>
@@ -291,7 +352,10 @@ const module0 = {
         <li><strong>Edição de Informação:</strong> Em um mundo com excesso de produtos, o estilista atua como um editor, mostrando como usar as tendências e as peças de uma coleção.</li>
     </ul>
     <p><strong>Referência Técnica:</strong> A colaboração entre o estilista Alexander McQueen e a stylist Katy England. England era fundamental na tradução das visões conceituais e muitas vezes sombrias de McQueen em looks de passarela que eram chocantes, belos e que contavam uma história complexa, elevando o desfile a uma performance artística.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma imagem poderosa e icônica de um desfile de Alexander McQueen (como Voss, Primavera/Verão 2001), onde o styling, a maquiagem e o cenário são tão importantes quanto as roupas para contar a história.]</p>
+    <div class="my-4">
+        <img src="images/modulo0/19.png" alt="Styling icônico do desfile Voss de Alexander McQueen" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Imagem icônica do desfile "Voss" (Primavera/Verão 2001) de Alexander McQueen, onde o styling, a maquiagem e o cenário são tão importantes quanto as roupas para contar a história.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">5. Pesquisa e Análise de Tendências: A Visão de Futuro</h4>
@@ -304,7 +368,10 @@ const module0 = {
         <li><strong>Inovação Relevante:</strong> Ajuda as marcas a inovar de uma forma que esteja em sintonia com as mudanças culturais e os anseios da sociedade.</li>
     </ul>
     <p><strong>Referência Técnica:</strong> O trabalho da agência WGSN (Worth Global Style Network). Eles utilizam uma metodologia global que inclui análise de dados de vendas, monitoramento de redes sociais, cobertura de desfiles e feiras, e uma rede de pesquisadores (coolhunters) para identificar os primeiros sinais de uma nova tendência e traduzi-los em relatórios técnicos para a indústria.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um infográfico que ilustra a "Curva de Adoção da Tendência", mostrando as fases: Inovadores (criadores), Primeiros a Adotar (líderes de estilo), Maioria Inicial, Maioria Tardia e Retardatários. Cada fase deve ser ilustrada com um exemplo de perfil de consumidor.]</p>
+    <div class="my-4">
+        <img src="images/modulo0/20.png" alt="Infográfico da Curva de Adoção da Tendência" class="w-full max-w-xl mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Infográfico que ilustra a "Curva de Adoção da Tendência", mostrando as fases: Inovadores, Primeiros a Adotar, Maioria Inicial, Maioria Tardia e Retardatários.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">Conclusão da Aula</h4>
@@ -326,7 +393,12 @@ const module0 = {
         <li><strong>Moral e Comportamento:</strong> A moda reflete os códigos morais de uma era, especialmente no que diz respeito aos papéis de gênero e à percepção do corpo.<br><strong>Referência Técnica:</strong> O Comprimento da Saia no Século XX. A variação no comprimento das saias ao longo do século XX é um barômetro da liberação feminina. A bainha sobe drasticamente nos anos 1920 (as flappers), um período de grande emancipação pós-Primeira Guerra, desce novamente nos conservadores anos 1930 e 1940, e explode com a minissaia de Mary Quant nos anos 1960, símbolo da revolução sexual e da pílula anticoncepcional. Cada centímetro a mais ou a menos na saia refletia diretamente as tensões e os avanços na luta por igualdade de gênero.</li>
         <li><strong>Afiliação Política e Protesto:</strong> O vestuário sempre foi usado como uniforme de movimentos políticos e de contracultura.<br><strong>Referência Técnica:</strong> O Uniforme dos Panteras Negras. Nos anos 1960, o partido dos Panteras Negras nos EUA adotou um uniforme deliberado e poderoso: boinas pretas, jaquetas de couro pretas e golas rolê. Cada peça tinha um significado. A boina ecoava a resistência de revolucionários como Che Guevara, e o couro preto projetava uma imagem de força e intransigência. O uniforme criava uma identidade visual coesa e comunicava os valores de orgulho negro, autodefesa e radicalismo político.</li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma composição de três imagens. À esquerda, uma pintura renascentista de Ticiano, mostrando a opulência e os tecidos restritos da nobreza. No centro, uma fotografia de uma mulher nos anos 1960 usando uma minissaia de Mary Quant. À direita, uma foto histórica de membros do partido dos Panteras Negras em seu uniforme característico.]</p>
+    <div class="flex flex-col md:flex-row gap-4 my-4 items-center">
+        <div class="flex-1">
+            <img src="images/modulo0/21.png" alt="Membros do partido dos Panteras Negras" class="w-full h-auto rounded-lg shadow-md object-cover">
+        </div>
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Composição de três imagens. À esquerda, a opulência na nobreza renascentista. No centro, uma minissaia dos anos 1960. À direita, o uniforme dos Panteras Negras, ilustrando como a moda reflete hierarquia, moral e política.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">2. O Reflexo dos Valores Culturais: Identidade, Arte e Globalização</h4>
@@ -336,7 +408,12 @@ const module0 = {
         <li><strong>Identidade Nacional e Tradição:</strong> O vestuário é um dos mais fortes marcadores de identidade cultural.<br><strong>Referência Técnica:</strong> O Quimono Japonês. O quimono não é apenas uma peça de roupa tradicional, mas um repositório de valores culturais japoneses. A sua forma em "T", que não revela o corpo, reflete o valor da discrição. As estampas frequentemente representam a natureza e as estações, mostrando a conexão xintoísta com o mundo natural. A forma de vesti-lo, em camadas e com rituais específicos, expressa os valores de formalidade, respeito e beleza contida (wabi-sabi).</li>
         <li><strong>Diálogo com a Arte:</strong> A moda frequentemente se inspira e traduz movimentos artísticos para o corpo.<br><strong>Referência Técnica:</strong> O Vestido "Mondrian" de Yves Saint Laurent (1965). Esta peça icônica é a tradução literal da pintura neoplástica de Piet Mondrian para um vestido tubinho de lã. Saint Laurent não apenas estampou a obra, mas entendeu sua essência. Ele usou a técnica de incrustação (peças de tecido costuradas lado a lado, sem relevo) para mimetizar as linhas pretas e os blocos de cor do pintor. O vestido transformou o corpo da mulher em uma obra de arte moderna, refletindo o otimismo e a fusão entre arte e vida dos anos 1960.</li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma foto do icônico vestido "Mondrian" de Yves Saint Laurent, ao lado de uma pintura de Piet Mondrian, como a "Composição com Vermelho, Amelo e Azul", para mostrar a transposição direta e genial do conceito.]</p>
+    <div class="flex flex-col md:flex-row gap-4 my-4 items-center">
+        <div class="flex-1">
+            <img src="images/modulo0/22.png" alt="Vestido Mondrian de Yves Saint Laurent" class="w-full h-auto rounded-lg shadow-md object-cover">
+        </div>
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: O icônico vestido "Mondrian" de Yves Saint Laurent, ao lado de uma pintura de Piet Mondrian ("Composição com Vermelho, Amarelo e Azul"), mostrando a transposição direta e genial do conceito da arte para a moda.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">3. O Reflexo dos Valores Individuais: Personalidade, Crenças e Pertencimento</h4>
@@ -354,3 +431,4 @@ const module0 = {
         }
     ]
 };
+

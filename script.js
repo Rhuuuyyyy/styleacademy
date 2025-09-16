@@ -5,8 +5,8 @@ document.addEventListener('DOMContentLoaded', function () {
         module1,
         module2,
         module3,
-        module4
-        // Adicione futuros módulos aqui (ex: module5...)
+        module4,
+        module5
     ];
 
     const curriculumContainer = document.getElementById('curriculum-container');
