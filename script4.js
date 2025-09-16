@@ -28,7 +28,10 @@ const module4 = {
                         </li>
                          <li><strong>Aplicações Estratégicas:</strong> É a fibra mais versátil. Usada em jeans (denim), camisaria, t-shirts (malha de algodão), roupa de cama e banho. O tipo de algodão (como o Pima ou o Egípcio, de fibras mais longas) define o nível de luxo e suavidade do tecido final.</li>
                     </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma fotografia macro de um capulho de algodão, mostrando a delicadeza e a pureza das fibras antes do processamento industrial.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo4/1.png" alt="Fotografia macro de um capulho de algodão" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Fotografia macro de um capulho de algodão, mostrando a delicadeza e a pureza das fibras antes do processamento industrial.</p>
                     <p><strong>Linho (Linen):</strong></p>
                     <ul class="list-disc pl-5 mt-2 space-y-2">
                         <li><strong>Origem e Extração:</strong> Proveniente do talo da planta de linho. É uma das fibras têxteis mais antigas da história, associada à nobreza desde o Antigo Egito.</li>
@@ -59,7 +62,10 @@ const module4 = {
                         </li>
                         <li><strong>Aplicações Estratégicas:</strong> Alfaiataria de inverno (fatos), casacos, malhas (camisolas), cachecóis e mantas.</li>
                     </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um close-up extremo de um fio de lã Merino, mostrando a sua ondulação natural e as escamas microscópicas que são responsáveis pelo seu poder de isolamento.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo4/2.png" alt="Close-up de um fio de lã Merino" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Um close-up extremo de um fio de lã Merino, mostrando a sua ondulação natural e as escamas microscópicas que são responsáveis pelo seu poder de isolamento.</p>
                     <p><strong>Seda (Silk):</strong></p>
                     <ul class="list-disc pl-5 mt-2 space-y-2">
                         <li><strong>Origem e Extração:</strong> É um filamento contínuo de proteína produzido pelo bicho-da-seda para construir o seu casulo. É a única fibra natural em forma de filamento.</li>
@@ -175,7 +181,10 @@ const module4 = {
                             </ul>
                         </li>
                     </ol>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um diagrama técnico comparando os três ligamentos: a estrutura quadriculada da Tela, a diagonal da Sarja e as longas flutuações do Cetim.]</p>
+                     <div class="my-4">
+                        <img src="images/modulo4/3.png" alt="Diagrama comparando os três ligamentos de tecido plano" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Diagrama técnico comparando os três ligamentos: a estrutura quadriculada da Tela, a diagonal da Sarja e as longas flutuações do Cetim.</p>
                 </div>
                 
                 <h4 class="text-xl font-bold mt-6 mb-3">2. Malhas (Knitted Fabrics): A Laçada da Flexibilidade</h4>
@@ -205,7 +214,10 @@ const module4 = {
                             </ul>
                         </li>
                     </ol>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma ilustração comparativa mostrando, de um lado, a grelha rígida de um tecido plano (urdume e trama) e, do outro, a estrutura interligada das laçadas de uma malha.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo4/4.png" alt="Ilustração comparativa entre tecido plano e malha" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Ilustração comparativa mostrando a grelha rígida de um tecido plano (urdume e trama) e a estrutura interligada das laçadas de uma malha.</p>
                 </div>
 
                 <h4 class="text-xl font-bold mt-6 mb-3">3. Não Tecidos (Non-Woven Fabrics): A Fusão das Fibras</h4>
@@ -266,8 +278,11 @@ const module4 = {
                         <li><strong>Caimento Fluido/Alto:</strong> O tecido é maleável, move-se facilmente e cria pregas suaves e sinuosas. É ideal para peças que requerem movimento e elegância, como vestidos esvoaçantes, saias e blusas. (Ex: Crepe de seda, Jersey de viscose, Chiffon).</li>
                         <li><strong>Caimento Estruturado/Baixo:</strong> O tecido é rígido, mantém a sua forma e cria pregas angulares ou não cria pregas de todo. É ideal para peças de alfaiataria, casacos arquitetónicos e designs que se afastam do corpo. (Ex: Tafetá, Organza, Denim grosso, Lona).</li>
                     </ul>
-                    <p><strong>Análise Técnica:</strong> O caimento é determinado pela interação between a fibra, a torção do fio e a estrutura do tecido. Fibras fluidas como a seda e a viscose, fios com alta torção (que criam o crepe) e estruturas com poucos pontos de ligação (como o cetim) resultam num caimento superior.</p>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma comparação visual lado a lado. À esquerda, um manequim com um pedaço de crepe de seda, mostrando as suas pregas fluidas e orgânicas. À direita, o mesmo manequim com um pedaço de organza, mostrando a sua rigidez e as suas dobras angulares e arquitetónicas.]</p>
+                    <p><strong>Análise Técnica:</strong> O caimento é determinado pela interação entre a fibra, a torção do fio e a estrutura do tecido. Fibras fluidas como a seda e a viscose, fios com alta torção (que criam o crepe) e estruturas com poucos pontos de ligação (como o cetim) resultam num caimento superior.</p>
+                     <div class="my-4">
+                        <img src="images/modulo4/5.png" alt="Comparação visual do caimento de tecidos" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Comparação visual. À esquerda, um manequim com crepe de seda, mostrando pregas fluidas. À direita, o mesmo com organza, mostrando dobras angulares e arquitetónicas.</p>
                  </div>
                  
                  <h4 class="text-xl font-bold mt-6 mb-3">3. Peso (Weight): A Densidade do Material</h4>
@@ -439,7 +454,10 @@ const module4 = {
                         <li><strong>Algodão na Índia e nas Américas:</strong> A Índia era o grande centro de produção de tecidos de algodão de alta qualidade, como a musselina, tão fina que era descrita como "ar tecido".</li>
                         <li><strong>Seda na China: O Segredo Imperial:</strong> Por milénios, a China manteve o monopólio da sericicultura. A seda era a fibra mais luxuosa e cobiçada do mundo, o motor da famosa Rota da Seda, que conectava o Oriente ao Ocidente. A sua chegada à Europa era sinónimo de realeza e poder supremo.</li>
                     </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Detalhe de um fragmento de têxtil copta do Egito (séculos IV-VII), mostrando a complexidade dos padrões e o uso de lã e linho em tapeçaria.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo4/6.png" alt="Detalhe de um fragmento de têxtil copta do Egito" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Detalhe de um fragmento de têxtil copta do Egito (séculos IV-VII), mostrando a complexidade dos padrões e o uso de lã e linho em tapeçaria.</p>
                  </div>
 
                  <h4 class="text-xl font-bold mt-6 mb-3">2. Renascimento e Barroco: A Era da Opulência Têxtil</h4>
@@ -450,7 +468,10 @@ const module4 = {
                         <li><strong>A Renda: O "Luxo Portátil":</strong> A renda de bilros e de agulha surgiu como uma nova forma de arte têxtil, exigindo um trabalho manual incrivelmente intensivo. Um colarinho ou um par de punhos de renda podiam custar mais do que uma pintura de um mestre da época.</li>
                         <li><strong>Análise Técnica:</strong> O peso e a estrutura destes tecidos ditavam a silhueta. Os vestidos não eram fluidos, mas sim esculturas rígidas de veludo e brocado, projetadas para impressionar e restringir, refletindo a rigidez da etiqueta da corte.</li>
                     </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Retrato de Agnolo Doni por Rafael (c. 1506). Analisar em detalhe o contraste entre o veludo preto profundo do vestuário e o brilho da camisa de seda, demonstrando o status através da qualidade dos tecidos.]</p>
+                     <div class="my-4">
+                        <img src="images/modulo4/7.png" alt="Retrato de Agnolo Doni por Rafael" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Retrato de Agnolo Doni por Rafael (c. 1506), demonstrando o status através do contraste entre o veludo preto e o brilho da camisa de seda.</p>
                  </div>
 
                 <h4 class="text-xl font-bold mt-6 mb-3">3. A Revolução Industrial (Século XIX): A Democratização e a Química</h4>
@@ -474,7 +495,10 @@ const module4 = {
                         <li><strong>1950s - Poliéster e Acrílico: A Era da "Fácil Manutenção":</strong> O pós-guerra trouxe o desejo de praticidade. O poliéster, que não amassava e secava rapidamente, e o acrílico, uma imitação quente e leve da lã, tornaram-se as fibras da vida suburbana moderna.</li>
                         <li><strong>1959 - Elastano (Lycra®): A Revolução do Conforto:</strong> A invenção do elastano mudou tudo. A sua capacidade de esticar e recuperar a forma permitiu o desenvolvimento de peças justas ao corpo, revolucionando a roupa interior, o swimwear e, acima de tudo, dando origem ao sportswear e ao athleisure.</li>
                     </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um anúncio vintage da DuPont dos anos 40, promovendo a "magia" das meias de nylon, mostrando uma mulher a examinar a perna com admiração.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo4/8.png" alt="Anúncio vintage de meias de nylon da DuPont" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Anúncio vintage da DuPont dos anos 40, promovendo a "magia" das meias de nylon.</p>
                 </div>`
         },
         {
@@ -503,7 +527,10 @@ const module4 = {
                         <li><strong>Exemplo Técnico (Outlast®):</strong> Utiliza Materiais de Mudança de Fase (PCMs) microencapsulados. Estes materiais (semelhantes a ceras) absorvem o excesso de calor corporal quando este é produzido (passando de estado sólido a líquido dentro da cápsula) e libertam esse calor armazenado quando o corpo arrefece (voltando ao estado sólido).</li>
                         <li><strong>Aplicação na Moda:</strong> Cria um microclima estável junto à pele. Usado em forros de casacos, luvas, roupa interior técnica e até em fatos para um conforto térmico superior em ambientes com ar condicionado.</li>
                     </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um diagrama técnico em corte de uma membrana Gore-Tex®, mostrando a escala comparativa de uma gota de água, um poro da membrana e uma molécula de vapor de água.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo4/9.png" alt="Diagrama técnico de uma membrana Gore-Tex" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Diagrama técnico em corte de uma membrana Gore-Tex®, mostrando a escala comparativa de uma gota de água, um poro da membrana e uma molécula de vapor de água.</p>
                 </div>
 
                 <h4 class="text-xl font-bold mt-6 mb-3">2. Tecidos Inteligentes (Smart Textiles): A Roupa que Sente e Reage</h4>
@@ -518,7 +545,10 @@ const module4 = {
                      <ul class="list-disc pl-5 mt-2 space-y-2">
                         <li><strong>Têxteis com Biossensores:</strong> Fios condutores e sensores impressos podem monitorizar o ritmo cardíaco, a frequência respiratória e a atividade muscular em tempo real. A Google, com o seu Project Jacquard, desenvolveu fios condutores que podem ser tecidos em qualquer tecido (como o denim), transformando a manga de um casaco numa interface tátil para controlar um smartphone.</li>
                     </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um casaco da Stone Island "Ice Jacket", mostrando a transição de cor de uma área que foi tocada pela mão (mais quente) em contraste com o resto da peça (mais fria).]</p>
+                    <div class="my-4">
+                        <img src="images/modulo4/10.png" alt="Casaco 'Ice Jacket' da Stone Island mudando de cor" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Casaco da Stone Island "Ice Jacket", mostrando a transição de cor de uma área que foi tocada pela mão (mais quente) em contraste com o resto da peça (mais fria).</p>
                 </div>
 
                 <h4 class="text-xl font-bold mt-6 mb-3">3. A Revolução da Sustentabilidade: A Natureza como Laboratório</h4>
@@ -544,7 +574,10 @@ const module4 = {
                             </ul>
                         </li>
                     </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um rolo de tecido Mylo™, mostrando a sua textura semelhante ao couro, com algumas imagens de cogumelos ao lado para ilustrar a origem.]</p>
+                     <div class="my-4">
+                        <img src="images/modulo4/11.png" alt="Rolo de tecido Mylo com cogumelos ao lado" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Um rolo de tecido Mylo™, mostrando a sua textura semelhante ao couro, com algumas imagens de cogumelos ao lado para ilustrar a origem.</p>
                 </div>
 
                 <h4 class="text-xl font-bold mt-6 mb-3">4. Tecidos Biodegradáveis e Compostáveis: O Design para o Fim de Vida</h4>
@@ -596,7 +629,10 @@ const module4 = {
                         <li><strong>Tecidos-Chave:</strong> Materiais com caimento fluido e peso suficiente para cair verticalmente sem adicionar volume lateral. Crepe de seda, Jersey de viscose, Lã fria, Cetim pesado (charmeuse), Liocel (Tencel).</li>
                          <li><strong>Análise Técnica:</strong> Estes tecidos, devido à sua maleabilidade e densidade, criam linhas verticais fortes e ininterruptas. Devem ser evitados tecidos rígidos que criam ângulos horizontais ou tecidos muito leves e esvoaçantes que podem adicionar volume indesejado.</li>
                     </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma comparação visual de três manequins. O primeiro com um vestido de Tafetá, mostrando uma saia volumosa e estruturada. O segundo com um vestido de Jersey com elastano, justo ao corpo. O terceiro com um vestido comprido de Crepe, mostrando as suas linhas verticais e fluidas.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo4/12.png" alt="Comparação visual de três manequins com diferentes tecidos" class="w-full max-w-xl mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Comparação visual de três manequins. O primeiro com Tafetá (saia estruturada), o segundo com Jersey (justo ao corpo), e o terceiro com Crepe (linhas verticais).</p>
                 </div>
                 
                  <h4 class="text-xl font-bold mt-6 mb-3">2. O Tecido como Narrativa: Reforçando a Mensagem do Estilo</h4>
@@ -650,3 +686,4 @@ const module4 = {
         }
     ]
 };
+

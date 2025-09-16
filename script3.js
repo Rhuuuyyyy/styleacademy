@@ -138,7 +138,10 @@ const module3 = {
                         <li><strong>Renascentista e Barroco:</strong> O uso de verdugados (armações em forma de cone) e, mais tarde, de paniers (armações laterais largas) transformava a parte inferior do corpo numa base geométrica para exibir tecidos caros. O espartilho, por sua vez, afunilava o tronco, criando um contraste dramático. A silhueta era uma demonstração pública de riqueza e lazer (era impossível trabalhar com tais estruturas).</li>
                         <li><strong>Era Vitoriana (Século XIX):</strong> O pêndulo atingiu o extremo da artificialidade. A crinolina, uma gaiola de aros de aço, criava uma silhueta de sino gigantesca. Mais tarde, a anquinha (bustle) projetava o volume unicamente para a parte de trás, criando uma forma bizarra e sexualizada, que empurrava o peito para a frente e os quadris para trás. Era o auge da domesticação do corpo feminino através da moda, refletindo a moralidade rígida da época.</li>
                     </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma ilustração técnica ou uma fotografia de museu de uma crinolina e de uma estrutura de anquinha, ao lado de um vestido de época que as utiliza. A imagem deve focar-se na engenharia por trás da silhueta.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo3/1.png" alt="Estruturas de crinolina e anquinha" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Ilustração técnica de uma crinolina e de uma estrutura de anquinha, ao lado de um vestido de época que as utiliza, focando na engenharia por trás da silhueta.</p>
                     <h5 class="font-semibold text-lg mt-4 mb-2">Fase 2: O Corpo em Movimento (A Revolução do Século XX):</h5>
                     <ul class="list-disc pl-5 mt-2 space-y-2">
                         <li><strong>Análise Técnica:</strong> O século XX testemunhou a demolição destas estruturas. A silhueta passou a refletir as novas realidades da vida feminina: o trabalho, o desporto, a dança e uma liberdade de movimento sem precedentes.</li>
@@ -147,7 +150,10 @@ const module3 = {
                         <li><strong>Anos 60 - A Silhueta Trapézio e Geométrica:</strong> A moda passou a ser ditada pelos jovens. André Courrèges, Pierre Cardin e Mary Quant criaram vestidos curtos em linha A (trapézio) e "tubinho" (shift dress). A roupa descolou-se do corpo, as curvas foram novamente ignoradas, e a silhueta tornou-se um reflexo do otimismo da Era Espacial: jovem, gráfica e funcional.</li>
                         <li><strong>Anos 80 - A Silhueta do Poder (Triângulo Invertido):</strong> Com a entrada massiva das mulheres no mercado de trabalho corporativo, a moda respondeu com o power suit. As ombreiras exageradas criaram uma silhueta de triângulo invertido, alargando a parte superior do corpo para projetar autoridade e poder, mimetizando a silhueta masculina para competir no mesmo ambiente.</li>
                     </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma montagem de quatro silhuetas icónicas do século XX, desenhadas de forma limpa e gráfica: a flapper dos anos 20, o "New Look" de Dior de 1947, o vestido trapézio de Courrèges dos anos 60 e o power suit dos anos 80. A comparação destaca as mudanças radicais na forma.]</p>
+                     <div class="my-4">
+                        <img src="images/modulo3/2.png" alt="Montagem de silhuetas icônicas do século XX" class="w-full max-w-xl mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Montagem gráfica de quatro silhuetas icônicas: a flapper dos anos 20, o "New Look" de Dior, o vestido trapézio dos anos 60 e o power suit dos anos 80, destacando as mudanças radicais na forma.</p>
                 </div>
                 <h4 class="text-xl font-bold mt-6 mb-3">2. Volume e Proporção na Moda Contemporânea: A Era da Desconstrução</h4>
                 <div class="space-y-4">
@@ -158,7 +164,10 @@ const module3 = {
                         <li><strong>Exemplo - Comme des Garçons:</strong> Na sua coleção "Body Meets Dress, Dress Meets Body" (1997), Rei Kawakubo inseriu protuberâncias e enchimentos em locais inesperados, criando silhuetas disformes que desafiavam radicalmente a noção de um corpo "normal" ou "belo". O volume aqui é uma ferramenta intelectual, não estética.</li>
                         <li><strong>Exemplo - Balenciaga sob Demna:</strong> A reinterpretação das silhuetas de alta-costura de Cristóbal Balenciaga através de uma lente streetwear. O volume oversized em casacos, moletons e ténis cria uma silhueta que é, ao mesmo tempo, protetora e alienante, refletindo a ansiedade e a cultura da internet.</li>
                      </ul>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um look da passarela da Balenciaga por Demna. Analisar como um casaco puffer ou um blazer é levado a um volume extremo, alterando completamente a proporção do corpo e criando uma nova e imponente silhueta.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo3/3.png" alt="Look da passarela da Balenciaga por Demna" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Look da passarela da Balenciaga por Demna, mostrando como um casaco é levado a um volume extremo, alterando completamente a proporção do corpo e criando uma nova e imponente silhueta.</p>
                     <h5 class="font-semibold text-lg mt-4 mb-2">A Proporção como Ferramenta de Styling:</h5>
                     <ul class="list-disc pl-5 mt-2 space-y-2">
                         <li><strong>Análise Técnica:</strong> No dia a dia, todas as decisões de styling são um exercício de gestão de proporções para alcançar um equilíbrio visual.</li>
@@ -210,7 +219,10 @@ const module3 = {
                         <li><strong>Simbologia:</strong> Poder, elegância, formalidade, mistério, sofisticação, luto.</li>
                         <li><strong>Análise Técnica:</strong> O preto absorve a luz, criando contornos nítidos e uma silhueta definida. Tem um efeito emagrecedor e confere "peso" visual e gravitas a quem o usa. O "Little Black Dress" de Chanel consagrou-o como a epítome da elegância intemporal. É também a cor da contracultura (do Gótico ao Punk) e dos intelectuais, sinalizando uma rejeição das cores "frívolas".</li>
                     </ul>
-                     <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma fotografia icónica de Audrey Hepburn em "Breakfast at Tiffany's", com o seu vestido preto de Givenchy. A imagem deve capturar a elegância, a sofisticação e a intemporalidade que o preto representa na moda.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo3/4.png" alt="Audrey Hepburn em 'Breakfast at Tiffany's' com vestido preto de Givenchy" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                     <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Fotografia icônica de Audrey Hepburn em "Breakfast at Tiffany's". A imagem captura a elegância, a sofisticação e a intemporalidade que o preto representa na moda.</p>
                     <h5 class="font-semibold text-lg mt-4 mb-2">Branco: A tela em branco.</h5>
                     <ul class="list-disc pl-5 mt-2 space-y-2">
                         <li><strong>Simbologia:</strong> Pureza, inocência, limpeza, minimalismo, paz, novos começos.</li>
@@ -262,7 +274,10 @@ const module3 = {
                     <p><strong>Elementos-Chave:</strong> Blazer bem cortado, calças de alfaiataria, saia-lápis, camisa de seda ou algodão, trench coat, vestido "tubinho", sapatos scarpin ou mocassim, joias discretas como pérolas ou pontos de luz.</p>
                     <p><strong>Cores e Estampas:</strong> Paleta de cores neutras e sóbrias: preto, branco, marinho, cinzento, bege, tons pastel suaves. As estampas, quando usadas, são clássicas e discretas: risca de giz, Príncipe de Gales, pied-de-poule, poá miúdo.</p>
                     <p><strong>Ícones de Estilo:</strong> Jacqueline Kennedy Onassis, Coco Chanel, Kate Middleton.</p>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma fotografia de Jacqueline Kennedy com um dos seus icónicos tailleurs de la da Chanel, exemplificando a elegância estruturada, as linhas limpas e a sofisticação atemporal do estilo.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo3/5.png" alt="Jacqueline Kennedy com um tailleur Chanel" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Jacqueline Kennedy com um dos seus icônicos tailleurs, exemplificando a elegância estruturada, as linhas limpas e a sofisticação atemporal do estilo clássico.</p>
                 </div>
                  <h4 class="text-xl font-bold mt-6 mb-3">2. O Estilo Elegante (ou Sofisticado)</h4>
                 <div class="space-y-4">
@@ -303,7 +318,10 @@ const module3 = {
                     <p><strong>Elementos-Chave:</strong> Alfaiataria desconstruída, t-shirts de corte perfeito, calças de tecido fluido, malhas de alta qualidade, casacos de corte reto. Os acessórios são escassos e de design puro.</p>
                     <p><strong>Cores e Estampas:</strong> Paleta estritamente neutra: preto, branco, cinzento, bege, marinho. Looks monocromáticos ou de baixo contraste são a norma. Não há estampas.</p>
                     <p><strong>Ícones de Estilo:</strong> O duo The Row (Mary-Kate e Ashley Olsen), Phoebe Philo (na sua era na Céline), Gwyneth Paltrow nos anos 90.</p>
-                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um look da marca The Row. Analisar a simplicidade da silhueta, a fluidez do tecido de alta qualidade e a ausência total de ornamentos, onde o luxo reside na forma e no material.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo3/6.png" alt="Look da marca The Row" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Look da marca The Row. A simplicidade da silhueta, a fluidez do tecido e a ausência de ornamentos, onde o luxo reside na forma e no material.</p>
                 </div>
                 <h4 class="text-xl font-bold mt-6 mb-3">7. O Estilo Criativo</h4>
                 <div class="space-y-4">
@@ -416,7 +434,7 @@ const module3 = {
                  </div>
                  <h4 class="text-xl font-bold mt-6 mb-3">Conclusão da Aula</h4>
                 <div class="space-y-4">
-                   <p>O estilo pessoal não é um destino final, but sim um processo dinâmico e contínuo de edição e refinamento, que evolui à medida que nós evoluímos. O objetivo desta aula foi fornecer um método claro para iniciar essa jornada. Ao combinar a análise interna com ferramentas visuais e um filtro crítico para as tendências, você ganha o poder de construir uma imagem que é, ao mesmo tempo, esteticamente prazerosa, funcional para a sua vida e, o mais importante de tudo, uma expressão verdadeira de quem você é.</p>
+                   <p>O estilo pessoal não é um destino final, mas sim um processo dinâmico e contínuo de edição e refinamento, que evolui à medida que nós evoluímos. O objetivo desta aula foi fornecer um método claro para iniciar essa jornada. Ao combinar a análise interna com ferramentas visuais e um filtro crítico para as tendências, você ganha o poder de construir uma imagem que é, ao mesmo tempo, esteticamente prazerosa, funcional para a sua vida e, o mais importante de tudo, uma expressão verdadeira de quem você é.</p>
                 </div>`
         },
         {
@@ -460,7 +478,10 @@ const module3 = {
                         <li><strong>Erro Comum:</strong> Usar um look que quebra completamente o código (mistura excessiva de estampas, volumes exagerados), o que pode ser interpretado como falta de profissionalismo.</li>
                         <li><strong>Solução Inteligente:</strong> A base é um fato de alfaiataria de corte impecável (adequação). O estilo criativo manifesta-se num ponto de cor ousado (uns sapatos, uma carteira), numa blusa com uma estampa artística subtil por baixo do blazer, ou em acessórios de design único e escultórico. A mensagem é: "Eu respeito as regras, mas faço-o à minha maneira".</li>
                      </ul>
-                      <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: A editora de moda Giovanna Battaglia Engelbert num look de trabalho. Analisar como ela usa uma base de alfaiataria clássica, mas a eleva com acessórios inesperados e um toque de cor, demonstrando a perfeita fusão entre o criativo e o corporativo.]</p>
+                    <div class="my-4">
+                        <img src="images/modulo3/7.png" alt="Giovanna Battaglia Engelbert em look de trabalho" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+                    </div>
+                      <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: A editora de moda Giovanna Battaglia Engelbert usa uma base de alfaiataria clássica, mas a eleva com acessórios inesperados, demonstrando a fusão entre o criativo e o corporativo.</p>
                      <p><strong>Caso 2: O Estilo Minimalista num Casamento de Gala</strong></p>
                      <ul class="list-disc pl-5 mt-2 space-y-2">
                         <li><strong>Erro Comum:</strong> Confundir minimalismo com simplicidade e aparecer com um look que parece demasiado casual ou "apagado" para a grandiosidade do evento.</li>
@@ -487,3 +508,4 @@ const module3 = {
         }
     ]
 };
+
