@@ -25,7 +25,10 @@ const module1 = {
         <li><strong>Referência Técnica: A Plicagem (Plissado).</strong> A técnica de plissar o linho era extremamente trabalhosa e um símbolo de alto status. Os plissados solares, que irradiavam da cintura, eram uma forma de associar o usuário (especialmente o faraó) ao deus-sol Rá, a divindade mais importante.</li>
         <li><strong>Adornos e Cores:</strong> A riqueza era expressa não na complexidade da roupa, mas nos adornos: joias pesadas de ouro e pedras semipreciosas (lápis-lazúli, cornalina, turquesa), perucas elaboradas e a pintura preta nos olhos (kohl), que tinha função protetora (contra o sol e insetos) e mágica (afastar maus espíritos). O azul e o verde simbolizavam o Nilo e a vida, enquanto o vermelho estava associado à energia e à vitória.</li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um relevo do túmulo de Tutancâmon, mostrando o faraó e sua esposa, Anquesenamon. A imagem deve destacar a transparência e a plissagem do linho, o uso do Chenti e da Kalasiris, e a importância das joias e perucas como marcadores de status.]</p>
+    <div class="my-4">
+        <img src="images/modulo1/1.png" alt="Relevo do túmulo de Tutancâmon mostrando o faraó e sua esposa" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Relevo do túmulo de Tutancâmon. A imagem destaca a transparência e a plissagem do linho, o uso do Chenti e da Kalasiris, e a importância das joias e perucas como marcadores de status.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">2. Grécia Antiga: A Lógica, a Proporção e o Corpo Ideal</h4>
@@ -45,14 +48,17 @@ const module1 = {
         <li><strong>Corpo e Nudez:</strong> Ao contrário dos egípcios, os gregos celebravam o corpo humano atlético como o ápice da beleza. A roupa interagia com o corpo, revelando sua forma em movimento. A nudez, especialmente a masculina nos ginásios e Olimpíadas, não era vergonhosa, mas um símbolo de perfeição e virtude cívica.</li>
         <li><strong>Cores e Padrões:</strong> Embora as estátuas de mármore branco nos enganem, as roupas gregas eram coloridas, tingidas com pigmentos vibrantes e frequentemente decoradas com padrões geométricos ou figurativos bordados nas bordas, conhecidos como "gregas".</li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma imagem de uma cariátide do Erecteion, na Acrópole de Atenas. A escultura mostra perfeitamente como o drapeado do quíton interage com a forma do corpo, criando um jogo de luz e sombra e linhas que valorizam a anatomia.]</p>
+    <div class="my-4">
+        <img src="images/modulo1/2.png" alt="Cariátide do Erecteion na Acrópole de Atenas" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Uma cariátide do Erecteion. A escultura mostra perfeitamente como o drapeado do quíton interage com a forma do corpo, criando um jogo de luz e sombra e linhas que valorizam a anatomia.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">3. Roma Antiga: O Poder, a Engenharia e a Hierarquia Visível</h4>
 <div class="space-y-4">
     <p>Se os gregos criaram a roupa do filósofo, os romanos criaram a roupa do cidadão, do engenheiro e do imperador. A indumentária romana era um sistema de classificação social complexo e rigoroso. Era mais estruturada que a grega, refletindo uma sociedade focada na lei, na ordem e na expansão do império.</p>
     <h5 class="font-semibold text-lg mt-4 mb-2">Funcionalidade e Material:</h5>
-    <p>Os romanos importavam tecidos de todo o império, incluindo a la (de melhor qualidade que a grega), o linho egípcio e a cobiçadíssima seda da China. A costura era mais utilizada do que na Grécia.</p>
+    <p>Os romanos importavam tecidos de todo o império, incluindo a lã (de melhor qualidade que a grega), o linho egípcio e a cobiçadíssima seda da China. A costura era mais utilizada do que na Grécia.</p>
     <h5 class="font-semibold text-lg mt-4 mb-2">Estética e Silhueta:</h5>
     <p>A silhueta era mais imponente e volumosa, projetada para ocupar espaço.</p>
     <ul class="list-disc pl-5 mt-2 space-y-2">
@@ -64,7 +70,10 @@ const module1 = {
         <li><strong>A Cor Púrpura:</strong> A púrpura tíria, extraída de um molusco raro, era a cor mais cara e prestigiosa do mundo antigo. Seu uso era estritamente controlado pelo estado e reservado para a mais alta elite, tornando-se o símbolo supremo de poder imperial, uma tradição que perdurou por séculos.</li>
         <li><strong>A Stola e a Palla:</strong> A stola era o vestido que distinguia uma matrona romana casada, usado sobre a túnica. Sobre ela, saía à rua com a palla, um manto similar ao himation grego. O conjunto comunicava seu status de mulher casada e respeitável.</li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: A estátua de Augusto de Prima Porta. O imperador está retratado usando uma couraça militar, mas sobre ela, a toga está drapeada de forma magistral, simbolizando seu duplo papel como líder militar e chefe de estado cívico.]</p>
+    <div class="my-4">
+        <img src="images/modulo1/3.png" alt="Estátua de Augusto de Prima Porta" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: A estátua de Augusto de Prima Porta. O imperador está retratado usando uma couraça militar, mas sobre ela, a toga está drapeada de forma magistral, simbolizando seu duplo papel como líder militar e chefe de estado cívico.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">Conclusão da Aula</h4>
@@ -101,7 +110,10 @@ const module1 = {
             </ul>
         </li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma página do manuscrito "As Riquíssimas Horas do Duque de Berry" (c. 1410). A imagem deve contrastar claramente os nobres, vestidos com houppelandes luxuosas e coloridas, com os camponeses em túnicas simples e de cores terrosas, ilustrando a rígida hierarquia social.]</p>
+    <div class="my-4">
+        <img src="images/modulo1/4.png" alt="Página do manuscrito 'As Riquíssimas Horas do Duque de Berry'" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Página do manuscrito "As Riquíssimas Horas do Duque de Berry" (c. 1410). A imagem contrasta claramente os nobres, com houppelandes luxuosas, com os camponeses em túnicas simples, ilustrando a rígida hierarquia social.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">2. O Renascimento (Séculos XV a XVI): A Celebração do Homem e da Riqueza</h4>
@@ -127,7 +139,10 @@ const module1 = {
             </ul>
         </li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: O retrato "Os Embaixadores" (1533) de Hans Holbein, o Jovem. A pintura é um documento visual da moda renascentista masculina: o luxo dos tecidos (veludo, cetim, pele de lince), a silhueta larga, os talhos nas mangas e a riqueza dos detalhes.]</p>
+    <div class="my-4">
+        <img src="images/modulo1/5.png" alt="Retrato 'Os Embaixadores' de Hans Holbein, o Jovem" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Retrato "Os Embaixadores" (1533) de Hans Holbein, o Jovem. A pintura é um documento visual da moda renascentista masculina: o luxo dos tecidos, a silhueta larga, os talhos nas mangas e a riqueza dos detalhes.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">Conclusão da Aula</h4>
@@ -159,7 +174,10 @@ const module1 = {
         <li><strong>Decotes e Mangas:</strong> Decotes baixos e retos que expunham os ombros, e mangas volumosas que terminavam nos cotovelos com profusão de rendas.</li>
         <li><strong>Tecidos:</strong> Materiais pesados e luxuosos como veludo, brocado e seda com padrões grandes e simétricos.</li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: O retrato oficial de Luís XIV em trajes de coroação (1701), por Hyacinthe Rigaud. A pintura é um catálogo da moda barroca: a peruca monumental, o manto de veludo forrado de arminho, as rendas, os sapatos de salto vermelho e a postura de poder absoluto.]</p>
+    <div class="my-4">
+        <img src="images/modulo1/6.png" alt="Retrato oficial de Luís XIV em trajes de coroação" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: O retrato oficial de Luís XIV (1701) por Hyacinthe Rigaud. A pintura é um catálogo da moda barroca: a peruca monumental, o manto de veludo, as rendas, os sapatos de salto vermelho e a postura de poder absoluto.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">2. O Rococó (Século XVIII): A Leveza e a Intimidade da Aristocracia</h4>
@@ -172,7 +190,10 @@ const module1 = {
         <li><strong>Referência Técnica: O Pannier.</strong> A estrutura que definia a silhueta feminina. Eram armações laterais que se amarravam na cintura, criando um volume lateral extremo nas saias, enquanto a frente e as costas permaneciam planas. Isso transformava a saia em uma tela para a exibição de tecidos ricamente decorados.</li>
         <li><strong>Robe à la Française vs. Robe à l'Anglaise:</strong> Eram os dois estilos de vestido dominantes. O primeiro, mais formal, tinha pregas soltas que caíam das costas (as "costas de Watteau"). O segundo, mais prático e popular na Inglaterra, era ajustado nas costas, definindo melhor o torso.</li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: A pintura "O Balanço" (1767), de Jean-Honoré Fragonard. A obra é a quintessência do Rococó, mostrando o vestido rosa esvoaçante, a atmosfera lúdica e galante, e a paleta de cores suaves e luminosas.]</p>
+    <div class="my-4">
+        <img src="images/modulo1/7.png" alt="Pintura 'O Balanço' de Jean-Honoré Fragonard" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: A pintura "O Balanço" (1767) de Fragonard é a quintessência do Rococó, mostrando o vestido rosa esvoaçante, a atmosfera lúdica e a paleta de cores suaves.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">3. O Século XIX: Revolução, Indústria e o Nascimento da Alta-Costura</h4>
@@ -194,7 +215,10 @@ const module1 = {
         <li><strong>As Modelos Vivas:</strong> Foi pioneiro no uso de mulheres reais (chamadas de sosies ou sósias) para apresentar suas criações aos clientes, em vez das tradicionais bonecas de moda.</li>
         <li><strong>Internacionalização:</strong> Sua clientela incluía a realeza europeia e as novas milionárias americanas, tornando Paris a capital indiscutível da moda mundial.</li>
     </ul>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma fotografia de estúdio de um vestido de baile criado por Charles Frederick Worth por volta de 1880. A imagem deve mostrar o luxo dos tecidos (cetim, tule, bordados), a complexidade da construção da anquinha e a etiqueta assinada "Worth", se possível, ou uma menção clara em legenda.]</p>
+    <div class="my-4">
+        <img src="images/modulo1/8.png" alt="Vestido de baile criado por Charles Frederick Worth" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Fotografia de um vestido de baile de Charles Frederick Worth (c. 1880), mostrando o luxo dos tecidos, a complexidade da anquinha e a assinatura do primeiro costureiro.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">Conclusão da Aula</h4>
@@ -221,7 +245,10 @@ const module1 = {
         <li><strong>Jean Patou:</strong> Criou a moda esportiva de luxo, desenhando roupas para a tenista Suzanne Lenglen e promovendo um estilo de vida ativo e elegante.</li>
     </ul>
     <p><strong>Impacto:</strong> A moda dos anos 20 não foi apenas uma mudança estética; foi uma declaração política. Ela materializou a emancipação feminina e estabeleceu a funcionalidade e o conforto como princípios válidos no vestuário de luxo.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma fotografia icônica de uma "Flapper" (melindrosa), mostrando o vestido curto de cintura baixa, as franjas para acentuar o movimento da dança e o corte de cabelo "bob cut".]</p>
+    <div class="my-4">
+        <img src="images/modulo1/9.png" alt="Fotografia de uma Flapper dos anos 1920" class="w-full max-w-sm mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Fotografia icônica de uma "Flapper" (melindrosa), mostrando o vestido curto de cintura baixa, as franjas para acentuar o movimento da dança e o corte de cabelo "bob cut".</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">2. A Década de 1950: O "New Look" e a Volta da Opulência</h4>
@@ -237,7 +264,10 @@ const module1 = {
         <li><strong>Cristóbal Balenciaga:</strong> Considerado o "mestre de todos nós" por Dior, Balenciaga era um técnico inigualável, criando silhuetas inovadoras que se afastavam do corpo, como o vestido "saco" e o casaco "casulo".</li>
     </ul>
     <p><strong>Impacto:</strong> O "New Look" representou um retorno a uma feminilidade mais tradicional e restritiva, mas também elevou a Alta-Costura a um novo patamar de arte e desejo global. Foi a última década em que Paris reinou de forma absoluta e incontestável.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: A fotografia clássica do "Bar Suit" de Christian Dior, de 1947. A modelo usa a jaqueta de seda marfim acinturada e a longa saia preta plissada. É a imagem definitiva do New Look.]</p>
+    <div class="my-4">
+        <img src="images/modulo1/10.png" alt="O 'Bar Suit' de Christian Dior, 1947" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: A fotografia clássica do "Bar Suit" de Christian Dior, de 1947. A jaqueta de seda marfim acinturada e a longa saia preta plissada são a imagem definitiva do New Look.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">3. A Década de 1970: A Explosão da Individualidade</h4>
@@ -257,7 +287,10 @@ const module1 = {
         <li><strong>Halston:</strong> Definiu o minimalismo glamoroso americano com seus vestidos fluidos e sensuais.</li>
     </ul>
     <p><strong>Impacto:</strong> A moda tornou-se democrática e fragmentada. A ideia de "bom gosto" foi desafiada, e o estilo pessoal passou a ser a principal forma de expressão.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma fotografia de Bianca Jagger no Studio 54, usando um vestido branco fluido de Halston, ou uma imagem de Yves Saint Laurent com modelos usando "Le Smoking".]</p>
+    <div class="my-4">
+        <img src="images/modulo1/11.png" alt="Yves Saint Laurent com modelos usando 'Le Smoking'" class="w-full max-w-lg mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Yves Saint Laurent com modelos usando sua icônica criação "Le Smoking", que consolidou o prêt-à-porter de luxo e a apropriação do guarda-roupa masculino.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">4. A Década de 1990: Minimalismo, Grunge e Globalização</h4>
@@ -276,7 +309,10 @@ const module1 = {
         <li><strong>Os Seis da Antuérpia e os japoneses (Yohji Yamamoto, Rei Kawakubo):</strong> Designers conceituais que desconstruíram a roupa e desafiaram as noções ocidentais de beleza.</li>
     </ul>
     <p><strong>Impacto:</strong> O grunge legitimou o "feio" e o "imperfeito" como estéticas válidas. O minimalismo ofereceu uma nova forma de luxo, mais discreta e intelectual. A moda tornou-se um campo para o debate conceitual.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma icônica campanha publicitária em preto e branco da Calvin Klein com Kate Moss, exemplificando a estética minimalista e andrógina da época.]</p>
+    <div class="my-4">
+        <img src="images/modulo1/12.png" alt="Campanha publicitária da Calvin Klein com Kate Moss nos anos 90" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Campanha icônica em preto e branco da Calvin Klein com Kate Moss, exemplificando a estética minimalista e andrógina que definiu a década de 1990.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">Conclusão da Aula</h4>
@@ -300,7 +336,10 @@ const module1 = {
     </ul>
     <h5 class="font-semibold text-lg mt-4 mb-2">A Fragmentação das Tendências:</h5>
     <p>A internet e as redes sociais puseram fim à era em que uma única silhueta ou cor dominava uma estação. Hoje, múltiplas estéticas e "micro-tendências" coexistem simultaneamente. Um estilo minimalista pode ser popular ao mesmo tempo que uma estética maximalista. O poder não está mais centralizado em Paris, mas distribuído por Seul, Lagos, Tóquio e pelas subculturas que nascem online.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Uma montagem visual contrastando a imagem de um único desfile de Alta-Costura dos anos 90 com um "moodboard" de dezenas de estilos diferentes coexistindo hoje, retirados do Instagram ou TikTok, representando a fragmentação estética.]</p>
+    <div class="my-4">
+        <img src="images/modulo1/13.png" alt="Moodboard de estilos fragmentados da moda contemporânea" class="w-full max-w-xl mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Moodboard de dezenas de estilos diferentes coexistindo hoje, retirados do Instagram ou TikTok, representando a fragmentação estética da moda contemporânea em oposição a uma tendência única do passado.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">2. Diversidade Cultural: Inspiração vs. Apropriação</h4>
@@ -312,7 +351,10 @@ const module1 = {
         <li><strong>Exemplos Controversos:</strong> O uso de cocares indígenas como acessórios em festivais de música; desfiles de grandes marcas utilizando estampas e símbolos sagrados de outras culturas sem o devido respeito ou permissão.</li>
     </ul>
      <p><strong>Referência Técnica: A Valorização da Origem.</strong> Em contrapartida, cresce o movimento de valorização de designers que trabalham com sua própria herança cultural. A ascensão da moda africana, asiática e latino-americana no cenário global traz novas perspectivas, técnicas artesanais e narrativas que enriquecem o vocabulário da moda. Designers como a nigeriana-britânica Duro Olowu ou a japonesa Chitose Abe (Sacai) são exemplos de como integrar referências culturais de forma autêntica e inovadora.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Um look de um designer contemporâneo que é celebrado por seu uso autêntico de herança cultural, como uma peça de Duro Olowu com suas famosas misturas de estampas de inspiração africana, ou uma criação desconstruída de Chitose Abe.]</p>
+    <div class="my-4">
+        <img src="images/modulo1/14.png" alt="Look da designer Duro Olowu com mistura de estampas" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Look da designer nigeriana-britânica Duro Olowu, celebrada por seu uso autêntico de herança cultural através de famosas misturas de estampas de inspiração africana.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">3. A Influência da Mídia Digital: O Fim dos "Gatekeepers"</h4>
@@ -325,7 +367,10 @@ const module1 = {
     </ul>
     <h5 class="font-semibold text-lg mt-4 mb-2">Comunicação Direta e Comunidades Online:</h5>
     <p>As marcas agora podem falar diretamente com seus consumidores através das redes sociais, construindo comunidades e recebendo feedback em tempo real. Subculturas e estéticas inteiras (como Cottagecore, Dark Academia ou Y2K) nascem e se disseminam organicamente em plataformas como o TikTok, influenciando de baixo para cima o que as grandes marcas irão produzir.</p>
-    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">[Imagem: Fotografia de Scott Schuman (The Sartorialist) mostrando um exemplo clássico de street style orgânico, onde o foco é a elegância natural de uma pessoa comum na rua.]</p>
+    <div class="my-4">
+        <img src="images/modulo1/15.png" alt="Fotografia de street style por Scott Schuman (The Sartorialist)" class="w-full max-w-md mx-auto h-auto rounded-lg shadow-md">
+    </div>
+    <p class="italic text-sm text-gray-500 my-4 p-3 bg-gray-50 rounded">Análise: Fotografia de Scott Schuman (The Sartorialist) mostrando um exemplo clássico de street style orgânico, onde o foco é a elegância natural de uma pessoa comum na rua.</p>
 </div>
 
 <h4 class="text-xl font-bold mt-6 mb-3">Conclusão da Aula e do Módulo</h4>
