@@ -5,52 +5,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Curso de Moda - Isa</title>
     
-    <!-- iro.js Color Picker Library -->
     <script src="https://cdn.jsdelivr.net/npm/@jaames/iro@5"></script>
 
-    <!-- Tailwind CSS CDN with Typography Plugin -->
     <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
     
-    <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
 
-    <!-- Custom CSS -->
     <link rel="stylesheet" href="styles.css">
 </head>
 <body class="antialiased">
 
-    <!-- Main View Container -->
     <div id="main-view">
-        <!-- Header -->
         <header class="fixed top-0 left-0 right-0 z-50 bg-white/80 backdrop-blur-md shadow-sm">
             <div class="container mx-auto px-6 py-4 flex justify-between items-center">
                 <h1 class="text-xl md:text-2xl font-bold tracking-wider text-gray-800">STYLE<span class="gradient-text">ACADEMY</span></h1>
                 
-                <!-- Desktop Navigation -->
                 <nav class="hidden md:flex">
                     <a href="#about" class="text-gray-600 hover:text-gray-900 mx-4 font-medium transition-colors">Sobre</a>
                     <a href="#curriculum" class="text-gray-600 hover:text-gray-900 mx-4 font-medium transition-colors">Módulos</a>
                     <a href="#features" class="text-gray-600 hover:text-gray-900 mx-4 font-medium transition-colors">Ferramentas</a>
+                    <a href="#resources" class="text-gray-600 hover:text-gray-900 mx-4 font-medium transition-colors">Recursos</a>
+                    <a href="#glossary" class="text-gray-600 hover:text-gray-900 mx-4 font-medium transition-colors">Glossário</a>
                 </nav>
 
-                <!-- Mobile Menu Button -->
                 <div class="md:hidden">
                     <button id="mobile-menu-button" class="text-gray-800 focus:outline-none">
                         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
                     </button>
                 </div>
             </div>
-            <!-- Mobile Menu (hidden by default) -->
             <div id="mobile-menu" class="hidden md:hidden bg-white/95 backdrop-blur-md">
                 <a href="#about" class="block text-center py-4 text-gray-700 hover:bg-gray-100">Sobre</a>
                 <a href="#curriculum" class="block text-center py-4 text-gray-700 hover:bg-gray-100">Módulos</a>
                 <a href="#features" class="block text-center py-4 text-gray-700 hover:bg-gray-100">Ferramentas</a>
+                <a href="#resources" class="block text-center py-4 text-gray-700 hover:bg-gray-100">Recursos</a>
+                <a href="#glossary" class="block text-center py-4 text-gray-700 hover:bg-gray-100">Glossário</a>
             </div>
         </header>
 
-        <!-- Hero Section -->
         <section class="hero-section h-screen flex items-center justify-center text-white pt-20 px-4">
             <div class="text-center bg-black bg-opacity-50 p-6 sm:p-10 rounded-lg max-w-full">
                 <h2 class="text-5xl sm:text-6xl md:text-8xl font-bold leading-tight tracking-tighter" style="font-family: 'Cormorant Garamond', serif;">Te amo, amor!</h2>
@@ -58,10 +52,8 @@
             </div>
         </section>
 
-        <!-- Main Content -->
         <main class="container mx-auto px-6 py-16 md:py-20">
             
-            <!-- About Section -->
             <section id="about" class="my-16 md:my-24 text-center fade-in">
                  <h2 class="text-3xl md:text-4xl font-bold gradient-text mb-4">O Curso Definitivo de Moda</h2>
                  <p class="max-w-3xl mx-auto text-gray-600 leading-relaxed">
@@ -70,22 +62,18 @@
             </section>
 
 
-            <!-- Curriculum Section -->
             <section id="curriculum" class="my-16 md:my-24">
                 <h2 class="text-4xl md:text-5xl font-bold text-center mb-12 md:mb-16 gradient-text fade-in">Conteúdo do Curso</h2>
                 <div id="curriculum-container" class="space-y-4 max-w-4xl mx-auto">
-                    <!-- Módulos serão inseridos aqui pelo JavaScript -->
-                </div>
+                    </div>
             </section>
 
-            <!-- Features Section -->
             <section id="features" class="my-16 md:my-24 fade-in">
                 <h2 class="text-4xl md:text-5xl font-bold text-center mb-12 md:mb-16 gradient-text">Ferramentas de Estilo</h2>
                 <div id="color-combiner" class="bg-white p-8 rounded-lg shadow-md max-w-4xl mx-auto">
                     <h3 class="text-2xl font-bold text-gray-800 mb-8 text-center" style="font-family: 'Cormorant Garamond', serif;">Combinador de Looks por Cor</h3>
                     
                     <div class="grid md:grid-cols-2 gap-8 items-start">
-                        <!-- Step 1: Primary Piece -->
                         <div class="step-container">
                             <p class="step-title">1. Peça Principal</p>
                             <p class="step-subtitle">Selecione a peça e a cor exata que você tem.</p>
@@ -105,7 +93,6 @@
                             </div>
                         </div>
 
-                        <!-- Step 2: Secondary Piece -->
                         <div class="step-container">
                             <p class="step-title">2. Peça a Combinar</p>
                              <p class="step-subtitle">Agora, escolha com o que você quer combinar.</p>
@@ -119,28 +106,149 @@
                         </div>
                     </div>
 
-                    <!-- Results -->
                     <div id="color-results-container" class="hidden mt-8 pt-6 border-t border-gray-200">
                          <h3 id="results-title" class="text-xl font-bold text-gray-700 mb-6 text-center"></h3>
                          <div class="space-y-5">
-                            <!-- Harmonies will be injected here -->
-                        </div>
+                            </div>
                     </div>
                 </div>
             </section>
-        </main>
 
-        <!-- Footer -->
+            <section id="resources" class="my-16 md:my-24 fade-in">
+                <h2 class="text-4xl md:text-5xl font-bold text-center mb-12 md:mb-16 gradient-text">Recursos Adicionais</h2>
+                <div class="max-w-5xl mx-auto grid md:grid-cols-2 gap-8">
+                    
+                    <div class="resource-category">
+                        <h3 class="resource-title">Blogs & Portais</h3>
+                        <ul class="space-y-2">
+                            <li><a href="https://vogue.globo.com/" target="_blank" rel="noopener noreferrer" class="resource-link">Vogue Brasil</a></li>
+                            <li><a href="https://elle.com.br/" target="_blank" rel="noopener noreferrer" class="resource-link">Elle Brasil</a></li>
+                            <li><a href="https://ffw.com.br/" target="_blank" rel="noopener noreferrer" class="resource-link">FFW (Fashion Forward)</a></li>
+                            <li><a href="https://stealthelook.com.br/" target="_blank" rel="noopener noreferrer" class="resource-link">Steal The Look</a></li>
+                            <li><a href="https://www.businessoffashion.com/" target="_blank" rel="noopener noreferrer" class="resource-link">Business of Fashion (BoF)</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="resource-category">
+                        <h3 class="resource-title">Documentários & Séries</h3>
+                         <ul class="space-y-2">
+                            <li><a href="https://www.imdb.com/title/tt4270516/" target="_blank" rel="noopener noreferrer" class="resource-link">The True Cost</a></li>
+                            <li><a href="https://www.imdb.com/title/tt3622134/" target="_blank" rel="noopener noreferrer" class="resource-link">Dior and I</a></li>
+                            <li><a href="https://www.imdb.com/title/tt6510344/" target="_blank" rel="noopener noreferrer" class="resource-link">McQueen</a></li>
+                             <li><a href="https://www.imdb.com/title/tt9358204/" target="_blank" rel="noopener noreferrer" class="resource-link">Westwood: Punk, Icon, Activist</a></li>
+                            <li><a href="https://www.netflix.com/br/title/80057880" target="_blank" rel="noopener noreferrer" class="resource-link">Abstract: The Art of Design</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="resource-category">
+                        <h3 class="resource-title">Museus Virtuais</h3>
+                         <ul class="space-y-2">
+                            <li><a href="https://artsandculture.google.com/project/fashion" target="_blank" rel="noopener noreferrer" class="resource-link">Google Arts & Culture: We Wear Culture</a></li>
+                            <li><a href="https://www.metmuseum.org/art/collection/search?department=8" target="_blank" rel="noopener noreferrer" class="resource-link">The Costume Institute (MET)</a></li>
+                            <li><a href="https://www.vam.ac.uk/collections/fashion" target="_blank" rel="noopener noreferrer" class="resource-link">Victoria and Albert Museum</a></li>
+                            <li><a href="https://www.palaisgalliera.paris.fr/en/collections/collections" target="_blank" rel="noopener noreferrer" class="resource-link">Palais Galliera, Museu de Moda de Paris</a></li>
+                             <li><a href="https://www.museunacionaldotraje.gov.pt/pt-PT/Coleccoes/Default.aspx" target="_blank" rel="noopener noreferrer" class="resource-link">Museu Nacional do Traje (Portugal)</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="resource-category">
+                        <h3 class="resource-title">Canais no YouTube</h3>
+                        <ul class="space-y-2">
+                             <li><a href="https://www.youtube.com/@VogueBrasil" target="_blank" rel="noopener noreferrer" class="resource-link">Vogue Brasil</a></li>
+                            <li><a href="https://www.youtube.com/@StealTheLook" target="_blank" rel="noopener noreferrer" class="resource-link">Steal The Look</a></li>
+                            <li><a href="https://www.youtube.com/@HauteLeMode" target="_blank" rel="noopener noreferrer" class="resource-link">HauteLeMode (em inglês)</a></li>
+                             <li><a href="https://www.youtube.com/@businessoffashion" target="_blank" rel="noopener noreferrer" class="resource-link">The Business of Fashion (em inglês)</a></li>
+                        </ul>
+                    </div>
+                    
+                </div>
+            </section>
+            <section id="glossary" class="my-16 md:my-24 fade-in">
+                <h2 class="text-4xl md:text-5xl font-bold text-center mb-12 md:mb-16 gradient-text">Glossário da Moda</h2>
+                <div class="max-w-5xl mx-auto grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <div class="glossary-item">
+                        <h3 class="glossary-term">Prêt-à-Porter</h3>
+                        <p class="glossary-definition">Expressão francesa para "pronto para vestir". Refere-se a roupas de grife vendidas em tamanhos padronizados, prontas para o uso.</p>
+                    </div>
+                    <div class="glossary-item">
+                        <h3 class="glossary-term">Haute Couture</h3>
+                        <p class="glossary-definition">"Alta-costura" em francês. Peças exclusivas, feitas à mão com tecidos de alta qualidade e sob medida para um cliente específico.</p>
+                    </div>
+                    <div class="glossary-item">
+                        <h3 class="glossary-term">Moodboard</h3>
+                        <p class="glossary-definition">Um painel de inspiração que reúne imagens, texturas e cores para guiar o conceito de uma coleção ou projeto criativo.</p>
+                    </div>
+                     <div class="glossary-item">
+                        <h3 class="glossary-term">Styling</h3>
+                        <p class="glossary-definition">A arte de combinar peças, acessórios e outros elementos para compor um visual ou uma imagem de moda. O profissional é o(a) stylist.</p>
+                    </div>
+                     <div class="glossary-item">
+                        <h3 class="glossary-term">Fast Fashion</h3>
+                        <p class="glossary-definition">Modelo de produção em que as coleções são produzidas de forma rápida e barata para acompanhar as últimas tendências.</p>
+                    </div>
+                    <div class="glossary-item">
+                        <h3 class="glossary-term">Alfaiataria</h3>
+                        <p class="glossary-definition">Técnica de corte e costura focada em peças estruturadas e com caimento perfeito, como blazers, calças e coletes. Sinônimo de elegância.</p>
+                    </div>
+                    <div class="glossary-item">
+                        <h3 class="glossary-term">Streetwear</h3>
+                        <p class="glossary-definition">Estilo de moda urbana que se originou nas culturas do skate e do hip-hop. Caracteriza-se por conforto, com moletons, camisetas e tênis.</p>
+                    </div>
+                    <div class="glossary-item">
+                        <h3 class="glossary-term">Upcycling</h3>
+                        <p class="glossary-definition">O processo de transformar peças de roupas, tecidos ou materiais descartados em novos produtos de maior valor, sem decompor o material original.</p>
+                    </div>
+                     <div class="glossary-item">
+                        <h3 class="glossary-term">Slow Fashion</h3>
+                        <p class="glossary-definition">Movimento que se opõe ao fast fashion, valorizando a produção sustentável, o consumo consciente, a qualidade e a durabilidade das peças.</p>
+                    </div>
+                    <div class="glossary-item">
+                        <h3 class="glossary-term">Tweed</h3>
+                        <p class="glossary-definition">Tecido de lã áspero, de trama aparente, originário da Escócia. Famoso por ser amplamente utilizado nos tailleurs da Chanel.</p>
+                    </div>
+                    <div class="glossary-item">
+                        <h3 class="glossary-term">Peplum</h3>
+                        <p class="glossary-definition">Uma saia ou babado curto e volumoso aplicado na altura da cintura de blusas, saias, vestidos ou casacos, criando uma silhueta feminina.</p>
+                    </div>
+                    <div class="glossary-item">
+                        <h3 class="glossary-term">Coleção Cápsula</h3>
+                        <p class="glossary-definition">Uma pequena coleção com poucas peças essenciais e versáteis, que são atemporais e combinam entre si, independentemente da estação.</p>
+                    </div>
+                    <div class="glossary-item">
+                        <h3 class="glossary-term">Draping / Moulage</h3>
+                        <p class="glossary-definition">Técnica de modelagem tridimensional onde o tecido é moldado e alfinetado diretamente no manequim para criar a forma da peça.</p>
+                    </div>
+                     <div class="glossary-item">
+                        <h3 class="glossary-term">Aviamentos</h3>
+                        <p class="glossary-definition">Todos os materiais secundários usados na confecção de uma roupa, como botões, zíperes, linhas, elásticos, fivelas e rebites.</p>
+                    </div>
+                     <div class="glossary-item">
+                        <h3 class="glossary-term">Pied-de-poule</h3>
+                        <p class="glossary-definition">Estampa clássica que lembra um "pé de galinha", caracterizada por um xadrez pequeno e irregular, geralmente em preto e branco.</p>
+                    </div>
+                     <div class="glossary-item">
+                        <h3 class="glossary-term">Athleisure</h3>
+                        <p class="glossary-definition">Tendência de usar roupas esportivas (athletic) em contextos de lazer (leisure), combinando conforto e estilo de forma sofisticada.</p>
+                    </div>
+                     <div class="glossary-item">
+                        <h3 class="glossary-term">Clutch</h3>
+                        <p class="glossary-definition">Uma bolsa de mão pequena e sem alças, geralmente usada em eventos noturnos ou festas para carregar itens essenciais.</p>
+                    </div>
+                     <div class="glossary-item">
+                        <h3 class="glossary-term">Coolhunter</h3>
+                        <p class="glossary-definition">Profissional especializado em identificar e prever novas tendências de comportamento, consumo e estilo antes que elas se popularizem.</p>
+                    </div>
+                </div>
+            </section>
+            </main>
+
         <footer class="bg-gray-800 text-white py-10">
             <div class="container mx-auto text-center px-6">
-                <p>&copy; 2025 StyleAcademy. Todos os direitos reservados ao meu amor.</p>
+                <p>© 2025 StyleAcademy. Todos os direitos reservados ao meu amor.</p>
                 <p class="text-sm text-gray-400 mt-2">Design by Rhyan</p>
             </div>
         </footer>
-    </div> <!-- End of Main View Container -->
-
-    <!-- Lesson Page View (Initially Hidden) -->
-    <div id="lesson-page" class="fixed inset-0 z-[100] transform translate-x-full transition-transform duration-500 ease-in-out bg-white">
+    </div> <div id="lesson-page" class="fixed inset-0 z-[100] transform translate-x-full transition-transform duration-500 ease-in-out bg-white">
         <header class="fixed top-0 left-0 right-0 z-10 p-4 md:p-5 flex items-center bg-white/80 backdrop-blur-md border-b border-gray-200">
             <button id="back-to-modules-btn" class="flex items-center gap-2 text-gray-600 hover:text-gray-900 font-medium transition-colors">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -150,12 +258,10 @@
             </button>
         </header>
         <main id="lesson-content-area" class="pt-20 md:pt-24 pb-12 px-6 md:px-12 overflow-y-auto h-full">
-             <!-- O conteúdo da aula será injetado aqui -->
-        </main>
+             </main>
     </div>
 
 
-    <!-- Scripts dos Módulos -->
     <script src="script0.js"></script>
     <script src="script1.js"></script>
     <script src="script2.js"></script>
@@ -163,8 +269,6 @@
     <script src="script4.js"></script>
     <script src="script5.js"></script>
     
-    <!-- Script Principal -->
     <script src="script.js"></script>
 </body>
 </html>
-

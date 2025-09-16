@@ -224,3 +224,35 @@ body.lesson-active {
     border: 2px solid #e5e7eb; /* gray-200 */
 }
 
+
+/* --- NOVOS ESTILOS: Glossário e Recursos --- */
+.glossary-item, .resource-category {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+.glossary-term, .resource-title {
+    font-family: var(--font-secondary);
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: var(--accent-dark);
+    margin-bottom: 0.75rem;
+}
+
+.glossary-definition {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--brand-text);
+}
+
+.resource-link {
+    color: var(--brand-text);
+    font-weight: 500;
+    transition: color 0.2s ease-in-out;
+}
+
+.resource-link:hover {
+    color: var(--accent-light);
+}
