@@ -42,7 +42,7 @@ body.lesson-active {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
 }
 
 /* Estilo do Accordion de Módulos */
@@ -116,3 +116,111 @@ body.lesson-active {
 #lesson-content-area .prose strong {
     color: var(--brand-text);
 }
+
+/* ... existing code ... */
+#lesson-content-area .prose strong {
+    color: #333;
+}
+
+/* --- New Styles for Color Combiner --- */
+.step-container {
+    padding: 1.5rem;
+    border: 1px solid #e5e7eb; /* gray-200 */
+    border-radius: 0.75rem; /* rounded-xl */
+    background-color: #f9fafb; /* gray-50 */
+}
+
+.step-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bold;
+    font-size: 1.5rem; /* text-2xl */
+    color: #374151; /* gray-700 */
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+.step-subtitle {
+    text-align: center;
+    font-size: 0.875rem; /* text-sm */
+    color: #6b7280; /* gray-500 */
+    margin-bottom: 1.5rem;
+}
+
+/* Buttons for piece type selection */
+.piece-type-btn {
+    padding: 0.5rem 1rem;
+    border: 2px solid #d1d5db; /* gray-300 */
+    border-radius: 9999px; /* rounded-full */
+    font-weight: 500;
+    color: #4b5563; /* gray-600 */
+    transition: all 0.2s ease-in-out;
+    background-color: white;
+}
+
+.piece-type-btn:hover {
+    border-color: #9ca3af; /* gray-400 */
+}
+
+.piece-type-btn.active {
+    background-color: #8a6e56; /* Custom brown */
+    color: white;
+    border-color: #8a6e56;
+}
+
+.piece-type-btn.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    background-color: #f3f4f6; /* gray-100 */
+}
+
+/* Color swatch for selection - REMOVED since we are using a picker */
+
+/* Container for result categories */
+.result-category {
+    padding: 1rem;
+    border: 1px solid #e5e7eb; /* gray-200 */
+    border-radius: 0.5rem; /* rounded-lg */
+    background-color: white;
+}
+
+/* Resulting color swatches */
+.result-swatch-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.result-swatch {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid #d1d5db; /* gray-300 */
+    margin-bottom: 0.5rem;
+}
+
+/* --- New Styles for iro.js Color Picker --- */
+.color-picker-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem; /* gap-6 */
+}
+
+.selected-color-info {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem; /* gap-3 */
+    padding: 0.5rem 1rem; /* py-2 px-4 */
+    background-color: white;
+    border-radius: 9999px; /* rounded-full */
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1); /* shadow */
+}
+
+#selected-color-display {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border: 2px solid #e5e7eb; /* gray-200 */
+}
+
