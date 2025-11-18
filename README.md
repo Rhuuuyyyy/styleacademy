@@ -234,21 +234,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido com 💜 por **Rhuuuyyyy**
-
----
-
-## 🙏 Agradecimentos
-
-- [Tailwind CSS](https://tailwindcss.com/) - Framework CSS
-- [Iro.js](https://iro.js.org/) - Color picker
-- [Google Fonts](https://fonts.google.com/) - Tipografia
-- Fontes acadêmicas de teoria da moda
-
----
-
 <p align="center">
   <sub>Um projeto de amor dedicado ao ensino de moda e estilo ✨</sub>
 </p>
+
